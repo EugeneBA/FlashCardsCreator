@@ -7,7 +7,7 @@ above prep., adv. A1
 abroad adv. B2
 absolute adj. B2
 absolutely adv. B1
-academic adj.B1
+academic adj. B1
 accept v. A2
 acceptable adj. B2
 access n., v. B1
@@ -251,7 +251,7 @@ bedroom n. A1
 bee n. B1
 beef n. A2
 beer n. A1
-before prep. A1, conj., adv.A2
+before prep. A1, conj., adv. A2
 beg v. B2
 begin v. A1
 beginning n. A1
@@ -469,10 +469,10 @@ clever adj. B1
 click v., n. B1
 client n. B1
 climate n. A2
-climb v. A1, n.B1
+climb v. A1, n. B1
 clock n. A1
 close v. A1, n. B2
-close adj. A2, adv.B1
+close adj. A2, adv. B1
 closed adj. A2
 closely adv. B2
 closet n. A2
@@ -527,7 +527,7 @@ complain v. A2
 complaint n. B1
 complete adj., v. A1
 completely adv. A2
-complex adj. B1, n.B2
+complex adj. B1, n. B2
 complicated adj. B2
 component n. B2
 computer n. A1
@@ -1000,7 +1000,7 @@ fan n. A2
 fancy adj. B1
 fantastic adj. A1
 far adv. A1, adj. B1
-farm n. A1, v.A2
+farm n. A1, v. A2
 farmer n. A1
 farming n. A2
 fascinating adj. B1
@@ -1008,7 +1008,7 @@ fashion n. A2
 fashionable adj. B1
 fast adj., adv. A1
 fasten v. B1
-fat adj. A1, n.A2
+fat adj. A1, n. A2
 father n. A1
 fault n. B2
 favor n. B1, v. B2
@@ -1052,7 +1052,7 @@ finish v. A1, n. A2
 fire n. A1, v. A2
 firm n. B2
 first det./number, adv. A1, n. A2
-fish n. A1, v.A2
+fish n. A1, v. A2
 fishing n. A2
 fit v., adj. A2
 fitness n. B1
@@ -1836,7 +1836,7 @@ organize v. A2
 organized adj. B1
 organizer n. B1
 origin n. B2
-original adj. A2, n.B1
+original adj. A2, n. B1
 originally adv. B1
 other adj./pron. A1
 otherwise adv. B2
@@ -1850,7 +1850,7 @@ outdoor adj. B1
 outdoors adv. B1
 outer adj. B2
 outline n., v. B2
-outside adv. A1, prep., noun., adj. A2
+outside adv. A1, prep., n., adj. A2
 oven n. A2
 over prep., adv. A1
 overall adj., adv. B2
@@ -2117,14 +2117,14 @@ racing n. B1
 radio n. A1
 railroad n. A2
 rain n., v. A1
-raise v. A2, n.B1
+raise v. A2, n. B1
 range n. B1, v. B2
 rank n., v. B2
 rapid adj. B2
 rapidly adv. B2
 rare adj. B1
 rarely adv. B1
-rate n. A2, v.B2
+rate n. A2, v. B2
 rather adv. A2
 raw adj. B2
 reach v. A2, n. B2
@@ -2243,7 +2243,7 @@ rid v. B2
 ride v. A1, n. A2
 right adj., adv., n. A1
 ring n. A2
-ring v. A2, n.B1
+ring v. A2, n. B1
 rise v. A2, n. B2
 risk n., v. B1
 river n. A1
