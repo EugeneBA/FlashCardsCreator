@@ -10,9 +10,45 @@ def ReadLines(filename: str) -> list[str]:
     with open(filename) as file:
         return [line.rstrip() for line in file]
 
-REG = "(?P<partlist>((?P<part>conj\.\/adv\.|number\/det\.|adj\.\/adv\.|n\.|adj\.|modal v\.|adv\.|v\.|pron\.|prep\.|conj\.|det\.|exclam\.|indefinite article|definite article|infinitive marker|auxiliary v\.|det\.\/pron\.|number),?\s?)+)\s(?P<level>(A|B)(1|2))"
 
-def ParseLines(lines: list[str]) -> list:    
+LEVELS = ["A1", "A2", "B1", "B2"]
+PARTS = [
+    "det./pron./adv.",
+    "adj./pron.",
+    "adj./adv.",
+    "adv./prep.",
+    "exclam./n.",
+    "conj./adv.",
+    "conj./prep.",        
+    "det./adj.",
+    "det./number",
+    "det./pron.",    
+    "number/det.",
+    "pron./det.",
+    "prep./adv.",
+    "n.",
+    "adj.",
+    "auxiliary v.",
+    "modal v.",
+    "adv.",
+    "v.",
+    "pron.",
+    "prep.",
+    "conj.",
+    "det.",
+    "exclam.",
+    "indefinite article",
+    "definite article",
+    "infinitive marker",
+    "number"
+]
+
+# REG = "(?P<partlist>((?P<part>conj\.\/adv\.|number\/det\.|adj\.\/adv\.|n\.|adj\.|modal v\.|adv\.|v\.|pron\.|prep\.|conj\.|det\.|exclam\.|indefinite article|definite article|infinitive marker|auxiliary v\.|det\.\/pron\.|number),?\s?)+)\s(?P<level>(A|B)(1|2))"
+PARTS_REG = "|".join(PARTS).replace(".", "\.")
+REG = f"(?P<partlist>(\s(?P<part>{PARTS_REG}),?\s?)+)\s(?P<level>(A|B)(1|2))"
+
+
+def ParseLines(lines: list[str]) -> list:
     regex = re.compile(REG)
 
     dict = []
@@ -24,15 +60,16 @@ def ParseLines(lines: list[str]) -> list:
         if res is None:
             invalidLines.append(line)
             continue
+
         [beg, end] = res.span()
-        word = text[:beg].rstrip()
-        parts = res.group("partlist")
+        word = text[:beg].strip()
+        parts = res.group("partlist").strip()
         level = res.group("level")
         record = {
             "en": word,
             "parts": parts,
             "level": level
-            }
+        }
         dict.append(record)
 
         while end < len(text):
@@ -42,13 +79,13 @@ def ParseLines(lines: list[str]) -> list:
                 invalidLines.append(line)
                 continue
             [beg, end] = res.span()
-            parts = res.group("partlist")
+            parts = res.group("partlist").strip()
             level = res.group("level")
             record = {
                 "en": word,
                 "parts": parts,
                 "level": level
-                }
+            }
             dict.append(record)
 
     return (dict, invalidLines)
@@ -61,7 +98,7 @@ def ParseLines(lines: list[str]) -> list:
 
 
 def main() -> int:
-    
+
     parser = argparse.ArgumentParser(description="Parse American Oxford 3000 dictionary from TEXT (.txt) to JSON (.json)")
 
     parser.add_argument('infile', help="input file(.txt)")
@@ -74,19 +111,19 @@ def main() -> int:
         dict, invalidLines = ParseLines(lines)
 
         print(f"{len(dict)} words were parsed successfully")
-        if len(invalidLines)>0:
+        if len(invalidLines) > 0:
             print()
             print(f"Next {len(invalidLines)} lines were invalid:")
-            for line in invalidLines:            
+            for line in invalidLines:
                 print(line)
-        
-        if len(dict)>0:
+
+        if len(dict) > 0:
             outfileName = args.outfile
             if outfileName is None:
                 p = pathlib.Path(args.infile)
                 outfileName = p.with_suffix(".json")
             with open(outfileName, "w") as outfile:
-                json.dump(dict, outfile, indent = 4)
+                json.dump(dict, outfile, indent=4)
 
     except Exception as error:
         print()
