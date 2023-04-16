@@ -1,28 +1,134 @@
+# from deep_translator import (GoogleTranslator,
+#                              MicrosoftTranslator,
+#                              PonsTranslator,
+#                              LingueeTranslator,
+#                              MyMemoryTranslator,
+#                              YandexTranslator,
+#                              PapagoTranslator,
+#                              DeeplTranslator,
+#                              QcriTranslator,
+#                              LibreTranslator,
+#                              single_detection,
+#                              batch_detection)
+
+from deep_translator import MyMemoryTranslator
+from deep_translator import LibreTranslator
+from deep_translator import GoogleTranslator
 import sys
+import time
 import argparse
 import json
 import traceback
+import ParseOxford
+
+from openpyxl import Workbook
+
+
 
 def ReadDict(filename: str) -> list:
     with open(filename) as file:
         return json.loads(file.read())
-    
-def ListWords(dict:list, args)->int:
-    for item in  dict:
+
+
+def WriteDict(filename: str, dict: list):
+    with open(filename, "w", encoding="utf-8") as outfile:
+        json.dump(dict, outfile, indent=4)
+
+def ExportDictToTxt(filename: str, dict: list):
+    with open(filename, "w", encoding="utf-8") as outfile:
+        outfile.writelines(map(lambda rec: f"{rec['en']}\t{rec['ru']}\n", dict))
+
+def ExportDictToExcel(filename: str, dict: list):
+    wb = Workbook()
+    ws = wb.active
+    for rec in dict:        
+        ws.append([rec['ru'], rec['en']])
+    wb.save(filename)    
+
+def FilterDict(dict: list, level: str = None, part: str = None, status: str = None) -> list:
+    iterator = dict
+    if level is not None:
+        iterator = filter(lambda rec: rec["level"] == level, iterator)
+    if part is not None:
+        iterator = filter(lambda rec: part in rec["parts"], iterator)
+    if status is not None:
+        iterator = filter(lambda rec: rec["status"] == status, iterator)
+    return list(iterator)
+
+
+def ListWords(dict: list):
+    for item in dict:
         print(item)
 
     print(len(dict))
-    return 0
+
+
+def TranslateWords(dict: list):
+    #translator = MyMemoryTranslator(source='en', target='ru')
+    #translator = LibreTranslator(source='en', target='ru')
+    translator = GoogleTranslator(source='en', target='ru')
+    i = 1
+    for rec in dict:
+        rec['ru'] = translator.translate(rec['en'])
+        print(f"{i}: {rec['en']} -> {rec['ru']}")
+        i+=1
+        if i%11==0:
+            time.sleep(0.7)
+
+
+# langs_dict = GoogleTranslator().get_supported_languages(as_dict=True)
+# print(langs_dict)
+
+# OK translated = GoogleTranslator(source='en', target='ru').translate("fifty")
+# print(translated)
+
+# OK translated = MyMemoryTranslator(source='en', target='ru').translate("fifty")
+# print(translated)
+
+# KEY? translated = DeeplTranslator(source='en', target='ru', use_free_api=True).translate("fifty")
+# print(translated)
+
+# FAIL print("language pairs: ", QcriTranslator("your_api_key").languages)
+
+# FAIL translated = LingueeTranslator(source='english', target='russian').translate("fifty")
+# print(translated)
+
+# ???? translated = PonsTranslator(source='english', target='russian').translate("fifty", return_all=True)
+# print(translated)
+
+# KEY? translated = YandexTranslator('').translate(source="en", target="ru", text='fifty')
+# print(translated)
+
+# KEY? translated = MicrosoftTranslator(api_key='', source='en', target='ru',).translate("fifty")
+# print(translated)
+
+# OK translated = LibreTranslator(source='en', target='ru').translate("fifty")
+# print(translated)
+
+from enum import Enum
+class Cmd(Enum):
+    List = 'list'
+    Translate = 'translate'
+    Export = 'export'
+
+# CMD_LIST = "list"
+# CMD_TRANSLATE = "translate"
+# CMD_EXPORT = "export"
+
+COMMANDS = [Cmd.List.value, Cmd.Translate.value, Cmd.Export.value]
 
 def main() -> int:
-    
+
+    print(sys.argv)
+
     parser = argparse.ArgumentParser(description="Parse American Oxford 3000 dictionary from TEXT (.txt) to JSON (.json)")
 
-    parser.add_argument('infile', help="input file(.json)")
-    parser.add_argument('cmd', choices=["list", "auto_translate", "create_cards"], help="command")
-    parser.add_argument('-L','--Level', action='append', choices=["A1", "A2", "B1", "B2"], help="level")
-    parser.add_argument('-P','--Part', action='append',  help="speech part")    
-    parser.add_argument('outfile', nargs='?', help="output file")
+    parser.add_argument('infile', help = "Input file(.json)")
+    parser.add_argument('cmd', choices = COMMANDS, help = "Command")
+    parser.add_argument('-L', '--Level', choices = ParseOxford.LEVELS, help = "Level")
+    parser.add_argument('-P', '--Part', choices = ParseOxford.PARTS, help = "Speech part")
+    parser.add_argument('-S', '--Status', help = "Status")
+    parser.add_argument('outfile', nargs = '?', help = "Output file")
 
     args = parser.parse_args()
 
@@ -30,12 +136,19 @@ def main() -> int:
         print(args)
 
         dict = ReadDict(args.infile)
-        
-        #print(dict[1])
+        filtered = FilterDict(dict, args.Level, args.Part, args.Status)
 
         match args.cmd:
-            case "list":
-                ListWords(dict, args)
+            case Cmd.List.value:
+                #ListWords(filtered)
+                print(Cmd.List)
+            case Cmd.Translate.value:
+                #TranslateWords(filtered)
+                #WriteDict(args.outfile, dict)
+                print(Cmd.Translate)
+            case Cmd.Export.value:
+                ExportDictToExcel(args.outfile, filtered)
+                print(Cmd.Export)
 
     except Exception as error:
         print()

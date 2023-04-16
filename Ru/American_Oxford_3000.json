@@ -4470,8 +4470,8 @@
         "level": "A1"
     },
     {
-        "en": "each det./pron./",
-        "parts": "adv.",
+        "en": "each",
+        "parts": "det./pron./adv.",
         "level": "A1"
     },
     {
@@ -5605,8 +5605,8 @@
         "level": "A2"
     },
     {
-        "en": "few det./",
-        "parts": "adj., pron.",
+        "en": "few",
+        "parts": "det./adj., pron.",
         "level": "A1"
     },
     {
@@ -5745,12 +5745,12 @@
         "level": "B2"
     },
     {
-        "en": "first det./",
-        "parts": "number, adv.",
+        "en": "first",
+        "parts": "det./number, adv.",
         "level": "A1"
     },
     {
-        "en": "first det./",
+        "en": "first",
         "parts": "n.",
         "level": "A2"
     },
@@ -6440,8 +6440,8 @@
         "level": "A2"
     },
     {
-        "en": "goodbye exclam./",
-        "parts": "n.",
+        "en": "goodbye",
+        "parts": "exclam./n.",
         "level": "A1"
     },
     {
@@ -6835,8 +6835,8 @@
         "level": "B2"
     },
     {
-        "en": "hello exclam./",
-        "parts": "n.",
+        "en": "hello",
+        "parts": "exclam./n.",
         "level": "A1"
     },
     {
@@ -9715,12 +9715,12 @@
         "level": "B1"
     },
     {
-        "en": "",
-        "parts": "number n.",
+        "en": "number",
+        "parts": "n.",
         "level": "A1"
     },
     {
-        "en": "",
+        "en": "number",
         "parts": "v.",
         "level": "A2"
     },
@@ -10070,8 +10070,8 @@
         "level": "B1"
     },
     {
-        "en": "other adj./",
-        "parts": "pron.",
+        "en": "other",
+        "parts": "adj./pron.",
         "level": "A1"
     },
     {
@@ -10100,8 +10100,8 @@
         "level": "A2"
     },
     {
-        "en": "out adv./",
-        "parts": "prep.",
+        "en": "out",
+        "parts": "adv./prep.",
         "level": "A1"
     },
     {
@@ -10170,12 +10170,12 @@
         "level": "B2"
     },
     {
-        "en": "own adj./",
-        "parts": "pron.",
+        "en": "own",
+        "parts": "adj./pron.",
         "level": "A1"
     },
     {
-        "en": "own adj./",
+        "en": "own",
         "parts": "v.",
         "level": "A2"
     },
@@ -10450,7 +10450,7 @@
         "level": "A2"
     },
     {
-        "en": "percent nou",
+        "en": "percent",
         "parts": "n., adj./adv.",
         "level": "A2"
     },
@@ -12725,12 +12725,12 @@
         "level": "B2"
     },
     {
-        "en": "second (next after the first) det./",
-        "parts": "number",
+        "en": "second (next after the first)",
+        "parts": "det./number",
         "level": "A1"
     },
     {
-        "en": "second (next after the first) det./",
+        "en": "second (next after the first)",
         "parts": "adv.",
         "level": "A2"
     },
@@ -14865,8 +14865,8 @@
         "level": "A1"
     },
     {
-        "en": "throughout prep./",
-        "parts": "adv.",
+        "en": "throughout",
+        "parts": "prep./adv.",
         "level": "B1"
     },
     {
@@ -14900,8 +14900,8 @@
         "level": "B1"
     },
     {
-        "en": "till conj./",
-        "parts": "prep.",
+        "en": "till",
+        "parts": "conj./prep.",
         "level": "B1"
     },
     {
@@ -15525,8 +15525,8 @@
         "level": "B1"
     },
     {
-        "en": "until conj./",
-        "parts": "prep.",
+        "en": "until",
+        "parts": "conj./prep.",
         "level": "A1"
     },
     {
@@ -16055,8 +16055,8 @@
         "level": "A2"
     },
     {
-        "en": "what pron./",
-        "parts": "det.",
+        "en": "what",
+        "parts": "pron./det.",
         "level": "A1"
     },
     {
@@ -16100,8 +16100,8 @@
         "level": "B1"
     },
     {
-        "en": "which pron./",
-        "parts": "det.",
+        "en": "which",
+        "parts": "pron./det.",
         "level": "A1"
     },
     {

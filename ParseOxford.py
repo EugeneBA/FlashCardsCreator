@@ -94,7 +94,7 @@ def ParseLines(lines: list[str]) -> list:
 # from PyMultiDictionary import MultiDictionary
 # dictionary = MultiDictionary()
 
-# print(dictionary.translate('en', 'Environment'))
+# print(dictionary.translate('en', 'fifty', to="ru"))
 
 
 def main() -> int:
