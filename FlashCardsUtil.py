@@ -12,6 +12,7 @@
 #                              batch_detection)
 
 from enum import Enum
+import pathlib
 from deep_translator import MyMemoryTranslator
 from deep_translator import LibreTranslator
 from deep_translator import GoogleTranslator
@@ -26,7 +27,7 @@ from openpyxl import Workbook
 
 
 def ReadDict(filename: str) -> list:
-    with open(filename) as file:
+    with open(filename, encoding='utf-8') as file:
         return json.loads(file.read())
 
 
@@ -56,7 +57,10 @@ def FilterDict(dict: list, level: str = None, part: str = None, status: str = No
     if part is not None:
         iterator = filter(lambda rec: part in rec["parts"], iterator)
     if status is not None:
-        iterator = filter(lambda rec: rec["status"] == status, iterator)
+        if status == "none":
+            iterator = filter(lambda rec: (not("status" in rec)) or (not(rec["status"].strip()) or rec["status"] == "none"), iterator)
+        else:
+            iterator = filter(lambda rec: ("status" in rec) and (rec["status"] == status), iterator)
     return list(iterator)
 
 
@@ -65,7 +69,6 @@ def ListWords(dict: list):
         print(item)
 
     print(len(dict))
-
 
 def TranslateWords(dict: list):
     # translator = MyMemoryTranslator(source='en', target='ru')
@@ -79,6 +82,9 @@ def TranslateWords(dict: list):
         if i % 11 == 0:
             time.sleep(0.7)
 
+def SetNewStatus(status:str, dict: list):
+    for rec in dict:
+        rec['status'] = status
 
 # langs_dict = GoogleTranslator().get_supported_languages(as_dict=True)
 # print(langs_dict)
@@ -114,10 +120,14 @@ class Cmd(Enum):
     List = 'list'
     Translate = 'translate'
     Export = 'export'
+    SetStatus = 'set_status'
 
+class Status(Enum):
+    Known = 'known'
+    Study = 'study'
+    NoSet = None
 
-COMMANDS = [Cmd.List.value, Cmd.Translate.value, Cmd.Export.value]
-
+COMMANDS = [Cmd.List.value, Cmd.Translate.value, Cmd.Export.value, Cmd.SetStatus.value]
 
 def main() -> int:
 
@@ -129,6 +139,7 @@ def main() -> int:
     parser.add_argument('-L', '--Level', choices=ParseOxford.LEVELS, help="Level")
     parser.add_argument('-P', '--Part', choices=ParseOxford.PARTS, help="Speech part")
     parser.add_argument('-S', '--Status', help="Status")
+    parser.add_argument('-NS', '--NewStatus', help="New status")
     parser.add_argument('outfile', nargs='?', help="Output file")
 
     args = parser.parse_args()
@@ -139,17 +150,29 @@ def main() -> int:
         dict = ReadDict(args.infile)
         filtered = FilterDict(dict, args.Level, args.Part, args.Status)
 
+        outfile = args.outfile
+        if outfile is None:
+            dict_outfile = args.infile
+
         match args.cmd:
             case Cmd.List.value:
-                # ListWords(filtered)
+                ListWords(filtered)
                 print(Cmd.List)
             case Cmd.Translate.value:
                 TranslateWords(filtered)
-                WriteDict(args.outfile, dict)
+                WriteDict(dict_outfile, dict)
                 print(Cmd.Translate)
             case Cmd.Export.value:
-                ExportDictToExcel(args.outfile, filtered)
+                p = pathlib.Path(args.outfile)
+                if p.suffix == '.xlsx':
+                    ExportDictToExcel(args.outfile, filtered)
+                else:
+                    ExportDictToTxt(args.outfile, filtered)
                 print(Cmd.Export)
+            case Cmd.SetStatus.value:
+                SetNewStatus(args.NewStatus, filtered)
+                WriteDict(dict_outfile, dict)
+                print(Cmd.SetStatus)
 
     except Exception as error:
         print()
