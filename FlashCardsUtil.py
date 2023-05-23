@@ -79,7 +79,9 @@ def TranslateWords(dict: list):
         rec['ru'] = translator.translate(rec['en'])
         print(f"{i}: {rec['en']} -> {rec['ru']}")
         i += 1
-        if i % 11 == 0:
+        if i % 51 == 0:
+            time.sleep(1.2)
+        elif i%11 == 0:
             time.sleep(0.7)
 
 def SetNewStatus(status:str, dict: list):
