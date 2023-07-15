@@ -1,0 +1,4362 @@
+[
+    {
+        "de": "Hallo!",
+        "ru": "Привет!"
+    },
+    {
+        "de": "Guten Tag!",
+        "ru": "Добрый день!"
+    },
+    {
+        "de": "Entschuldigung!",
+        "ru": "Извини(те)!"
+    },
+    {
+        "de": "Bitte",
+        "ru": "пожалуйста"
+    },
+    {
+        "de": "Danke",
+        "ru": "спасибо"
+    },
+    {
+        "de": "Gern geschehen",
+        "ru": "не за что"
+    },
+    {
+        "de": "Schade",
+        "ru": "жаль"
+    },
+    {
+        "de": "Tschüss!",
+        "ru": "Пока!"
+    },
+    {
+        "de": "Auf Wiedersehen!",
+        "ru": "До свидания!"
+    },
+    {
+        "de": "die Leute",
+        "ru": "люди"
+    },
+    {
+        "de": "der Mensch",
+        "ru": "человек"
+    },
+    {
+        "de": "der Mann",
+        "ru": "мужчина; муж"
+    },
+    {
+        "de": "die Frau",
+        "ru": "женщина; жена"
+    },
+    {
+        "de": "das Kind",
+        "ru": "ребенок"
+    },
+    {
+        "de": "der Junge",
+        "ru": "мальчик"
+    },
+    {
+        "de": "das Mädchen",
+        "ru": "девочка"
+    },
+    {
+        "de": "der Freund",
+        "ru": "друг"
+    },
+    {
+        "de": "der Bekannte",
+        "ru": "знакомый"
+    },
+    {
+        "de": "der Nachbar",
+        "ru": "сосед"
+    },
+    {
+        "de": "der Gast",
+        "ru": "гость"
+    },
+    {
+        "de": "der Chef",
+        "ru": "начальник; шеф"
+    },
+    {
+        "de": "der Konkurrent",
+        "ru": "конкурент"
+    },
+    {
+        "de": "der Kunde",
+        "ru": "клиент, покупатель"
+    },
+    {
+        "de": "der Kollege",
+        "ru": "коллега"
+    },
+    {
+        "de": "die Familie",
+        "ru": "семья"
+    },
+    {
+        "de": "die Eltern",
+        "ru": "родители"
+    },
+    {
+        "de": "der Vater",
+        "ru": "отец"
+    },
+    {
+        "de": "der Vati",
+        "ru": "папа"
+    },
+    {
+        "de": "die Mutter",
+        "ru": "мать"
+    },
+    {
+        "de": "die Mutti",
+        "ru": "мама"
+    },
+    {
+        "de": "der Sohn",
+        "ru": "сын"
+    },
+    {
+        "de": "die Tochter",
+        "ru": "дочь"
+    },
+    {
+        "de": "der Bruder",
+        "ru": "брат"
+    },
+    {
+        "de": "die Schwester",
+        "ru": "сестра"
+    },
+    {
+        "de": "der Großvater",
+        "ru": "дед"
+    },
+    {
+        "de": "der Opa",
+        "ru": "дедушка"
+    },
+    {
+        "de": "die Großmutter",
+        "ru": "бабушка"
+    },
+    {
+        "de": "die Oma",
+        "ru": "бабуля"
+    },
+    {
+        "de": "der Enkel",
+        "ru": "внук"
+    },
+    {
+        "de": "die Enkelin",
+        "ru": "внучка"
+    },
+    {
+        "de": "der Schwiegervater",
+        "ru": "тесть, свекор"
+    },
+    {
+        "de": "die Schwiegermutter",
+        "ru": "тёща, свекровь"
+    },
+    {
+        "de": "der Onkel",
+        "ru": "дядя"
+    },
+    {
+        "de": "die Tante",
+        "ru": "тетя"
+    },
+    {
+        "de": "der Cousin [кузэн]",
+        "ru": "двоюродный брат"
+    },
+    {
+        "de": "die Kusine",
+        "ru": "двоюродная сестра"
+    },
+    {
+        "de": "der Neffe",
+        "ru": "племянник"
+    },
+    {
+        "de": "die Nichte",
+        "ru": "племянница"
+    },
+    {
+        "de": "die Arbeit",
+        "ru": "работа"
+    },
+    {
+        "de": "der Geschäftsmann",
+        "ru": "бизнесмен"
+    },
+    {
+        "de": "der Lehrer",
+        "ru": "учитель"
+    },
+    {
+        "de": "der Fahrer",
+        "ru": "водитель"
+    },
+    {
+        "de": "der Arbeiter",
+        "ru": "рабочий"
+    },
+    {
+        "de": "der Ingenieur",
+        "ru": "инженер"
+    },
+    {
+        "de": "der Arzt",
+        "ru": "врач"
+    },
+    {
+        "de": "der Rechtsanwalt",
+        "ru": "адвокат"
+    },
+    {
+        "de": "der Journalist",
+        "ru": "журналист"
+    },
+    {
+        "de": "die Krankenschwester",
+        "ru": "медсестра"
+    },
+    {
+        "de": "der Verkäufer",
+        "ru": "продавец"
+    },
+    {
+        "de": "der Kellner",
+        "ru": "официант"
+    },
+    {
+        "de": "der Buchhalter",
+        "ru": "бухгалтер"
+    },
+    {
+        "de": "der Maler",
+        "ru": "художник"
+    },
+    {
+        "de": "der Musiker",
+        "ru": "музыкант"
+    },
+    {
+        "de": "der Schauspieler",
+        "ru": "актер"
+    },
+    {
+        "de": "der Student",
+        "ru": "студент"
+    },
+    {
+        "de": "der Schüler",
+        "ru": "школьник, ученик"
+    },
+    {
+        "de": "das Tier",
+        "ru": "животное"
+    },
+    {
+        "de": "die Katze",
+        "ru": "кошка"
+    },
+    {
+        "de": "der Hund",
+        "ru": "собака"
+    },
+    {
+        "de": "der Vogel",
+        "ru": "птица"
+    },
+    {
+        "de": "das Eichhörnchen",
+        "ru": "белка"
+    },
+    {
+        "de": "der Wolf",
+        "ru": "волк"
+    },
+    {
+        "de": "die Gans",
+        "ru": "гусь"
+    },
+    {
+        "de": "die Giraffe",
+        "ru": "жираф"
+    },
+    {
+        "de": "das Kaninchen",
+        "ru": "кролик"
+    },
+    {
+        "de": "der Hase",
+        "ru": "заяц"
+    },
+    {
+        "de": "die Kuh",
+        "ru": "корова"
+    },
+    {
+        "de": "die Ratte",
+        "ru": "крыса"
+    },
+    {
+        "de": "der Fuchs",
+        "ru": "лиса"
+    },
+    {
+        "de": "das Pferd",
+        "ru": "лошадь"
+    },
+    {
+        "de": "der Frosch",
+        "ru": "лягушка"
+    },
+    {
+        "de": "der Bär",
+        "ru": "медведь"
+    },
+    {
+        "de": "die Maus",
+        "ru": "мышь"
+    },
+    {
+        "de": "der Affe",
+        "ru": "обезьяна"
+    },
+    {
+        "de": "das Schwein",
+        "ru": "свинья"
+    },
+    {
+        "de": "der Elefant",
+        "ru": "слон"
+    },
+    {
+        "de": "die Ente",
+        "ru": "утка"
+    },
+    {
+        "de": "das Land",
+        "ru": "страна; сельская местность; земля"
+    },
+    {
+        "de": "Russland",
+        "ru": "Россия"
+    },
+    {
+        "de": "Deutschland",
+        "ru": "Германия"
+    },
+    {
+        "de": "Österreich",
+        "ru": "Австрия"
+    },
+    {
+        "de": "die Schweiz",
+        "ru": "Швейцария"
+    },
+    {
+        "de": "die Stadt",
+        "ru": "город"
+    },
+    {
+        "de": "das Haus",
+        "ru": "дом"
+    },
+    {
+        "de": "das Gebäude",
+        "ru": "здание"
+    },
+    {
+        "de": "der Platz",
+        "ru": "площадь; место"
+    },
+    {
+        "de": "der Eingang",
+        "ru": "вход"
+    },
+    {
+        "de": "der Ausgang",
+        "ru": "выход"
+    },
+    {
+        "de": "das Zentrum",
+        "ru": "центр"
+    },
+    {
+        "de": "der Hof",
+        "ru": "двор"
+    },
+    {
+        "de": "das Dach",
+        "ru": "крыша"
+    },
+    {
+        "de": "der Zaun",
+        "ru": "забор"
+    },
+    {
+        "de": "das Dorf",
+        "ru": "деревня, поселок"
+    },
+    {
+        "de": "die Schule",
+        "ru": "школа"
+    },
+    {
+        "de": "die Universität",
+        "ru": "университет"
+    },
+    {
+        "de": "das Theater",
+        "ru": "театр"
+    },
+    {
+        "de": "die Kirche",
+        "ru": "церковь"
+    },
+    {
+        "de": "das Restaurant",
+        "ru": "ресторан"
+    },
+    {
+        "de": "das Cafe",
+        "ru": "кафе"
+    },
+    {
+        "de": "das Hotel",
+        "ru": "гостиница"
+    },
+    {
+        "de": "die Bank",
+        "ru": "банк"
+    },
+    {
+        "de": "das Kino",
+        "ru": "кинотеатр"
+    },
+    {
+        "de": "das Krankenhaus",
+        "ru": "больница"
+    },
+    {
+        "de": "die Polizei",
+        "ru": "полиция"
+    },
+    {
+        "de": "das Postamt",
+        "ru": "почта"
+    },
+    {
+        "de": "der Bahnhof",
+        "ru": "станция, вокзал"
+    },
+    {
+        "de": "der Flughafen",
+        "ru": "аэропорт"
+    },
+    {
+        "de": "das Geschäft",
+        "ru": "магазин"
+    },
+    {
+        "de": "die Apotheke",
+        "ru": "аптека"
+    },
+    {
+        "de": "der Markt",
+        "ru": "рынок"
+    },
+    {
+        "de": "das Büro",
+        "ru": "офис"
+    },
+    {
+        "de": "die Firma",
+        "ru": "фирма"
+    },
+    {
+        "de": "der Betrieb",
+        "ru": "предприятие"
+    },
+    {
+        "de": "die Straße",
+        "ru": "улица"
+    },
+    {
+        "de": "der Weg",
+        "ru": "дорога"
+    },
+    {
+        "de": "die Kreuzung",
+        "ru": "перекрёсток"
+    },
+    {
+        "de": "die Haltestelle",
+        "ru": "остановка"
+    },
+    {
+        "de": "der Gehsteig",
+        "ru": "тротуар"
+    },
+    {
+        "de": "der Pfad",
+        "ru": "тропа, тропинка"
+    },
+    {
+        "de": "der Garten",
+        "ru": "сад"
+    },
+    {
+        "de": "der Park",
+        "ru": "парк"
+    },
+    {
+        "de": "die Brücke",
+        "ru": "мост"
+    },
+    {
+        "de": "der Fluss",
+        "ru": "река"
+    },
+    {
+        "de": "der Wald",
+        "ru": "лес"
+    },
+    {
+        "de": "das Feld",
+        "ru": "поле"
+    },
+    {
+        "de": "der Berg",
+        "ru": "гора"
+    },
+    {
+        "de": "der See",
+        "ru": "озеро"
+    },
+    {
+        "de": "das Meer",
+        "ru": "море"
+    },
+    {
+        "de": "der Ozean",
+        "ru": "океан"
+    },
+    {
+        "de": "die Küste",
+        "ru": "морской берег, побережье"
+    },
+    {
+        "de": "der Strand",
+        "ru": "пляж"
+    },
+    {
+        "de": "der Sand",
+        "ru": "песок"
+    },
+    {
+        "de": "die Insel",
+        "ru": "остров"
+    },
+    {
+        "de": "die Grenze",
+        "ru": "граница"
+    },
+    {
+        "de": "der Zoll",
+        "ru": "таможня"
+    },
+    {
+        "de": "der Müll",
+        "ru": "мусор"
+    },
+    {
+        "de": "die Abfälle",
+        "ru": "отходы"
+    },
+    {
+        "de": "der Stein",
+        "ru": "камень"
+    },
+    {
+        "de": "die Pflanze",
+        "ru": "растение"
+    },
+    {
+        "de": "der Baum",
+        "ru": "дерево"
+    },
+    {
+        "de": "das Gras",
+        "ru": "трава"
+    },
+    {
+        "de": "die Blume",
+        "ru": "цветок"
+    },
+    {
+        "de": "das Blatt",
+        "ru": "лист"
+    },
+    {
+        "de": "die Wohnung",
+        "ru": "квартира"
+    },
+    {
+        "de": "das Zimmer",
+        "ru": "комната"
+    },
+    {
+        "de": "das Wohnzimmer",
+        "ru": "зал"
+    },
+    {
+        "de": "das Schlafzimmer",
+        "ru": "спальня"
+    },
+    {
+        "de": "das Badezimmer",
+        "ru": "ванная"
+    },
+    {
+        "de": "die Dusche",
+        "ru": "душ"
+    },
+    {
+        "de": "die Toilette",
+        "ru": "туалет"
+    },
+    {
+        "de": "die Küche",
+        "ru": "кухня"
+    },
+    {
+        "de": "der Flur",
+        "ru": "коридор"
+    },
+    {
+        "de": "der Balkon",
+        "ru": "балкон"
+    },
+    {
+        "de": "der Fußboden",
+        "ru": "пол"
+    },
+    {
+        "de": "die Decke",
+        "ru": "потолок; одеяло"
+    },
+    {
+        "de": "die Wand",
+        "ru": "стена"
+    },
+    {
+        "de": "die Treppe",
+        "ru": "лестница"
+    },
+    {
+        "de": "die Tür",
+        "ru": "дверь"
+    },
+    {
+        "de": "das Fenster",
+        "ru": "окно"
+    },
+    {
+        "de": "das Fensterbrett",
+        "ru": "подоконник"
+    },
+    {
+        "de": "die Gardine",
+        "ru": "занавес(ка), штора"
+    },
+    {
+        "de": "der Schalter",
+        "ru": "выключатель; окошко (кассы)"
+    },
+    {
+        "de": "die Steckdose",
+        "ru": "розетка"
+    },
+    {
+        "de": "der Wasserhahn",
+        "ru": "(водопроводный) кран"
+    },
+    {
+        "de": "das Rohr",
+        "ru": "труба"
+    },
+    {
+        "de": "der Schornstein",
+        "ru": "дымовая труба"
+    },
+    {
+        "de": "die Möbel",
+        "ru": "мебель"
+    },
+    {
+        "de": "der Tisch",
+        "ru": "стол"
+    },
+    {
+        "de": "der Stuhl",
+        "ru": "стул"
+    },
+    {
+        "de": "der Sessel",
+        "ru": "кресло"
+    },
+    {
+        "de": "die Couch [кáуч]",
+        "ru": "диван"
+    },
+    {
+        "de": "das Bett",
+        "ru": "кровать"
+    },
+    {
+        "de": "der Schrank",
+        "ru": "шкаф"
+    },
+    {
+        "de": "das Regal",
+        "ru": "полка"
+    },
+    {
+        "de": "der Spiegel",
+        "ru": "зеркало"
+    },
+    {
+        "de": "der Teppich",
+        "ru": "ковер"
+    },
+    {
+        "de": "der Kühlschrank",
+        "ru": "холодильник"
+    },
+    {
+        "de": "die Mikrowelle",
+        "ru": "микроволновка"
+    },
+    {
+        "de": "der Ofen",
+        "ru": "печь, духовка"
+    },
+    {
+        "de": "der Herd",
+        "ru": "кухонная плита"
+    },
+    {
+        "de": "die Lebensmittel",
+        "ru": "еда, продукты"
+    },
+    {
+        "de": "das Brot",
+        "ru": "хлеб"
+    },
+    {
+        "de": "die Butter",
+        "ru": "сливочное масло"
+    },
+    {
+        "de": "das Öl",
+        "ru": "растительное масло"
+    },
+    {
+        "de": "der Käse",
+        "ru": "сыр"
+    },
+    {
+        "de": "die Wurst",
+        "ru": "колбаса"
+    },
+    {
+        "de": "das Würstchen",
+        "ru": "сосиска"
+    },
+    {
+        "de": "der Schinken",
+        "ru": "ветчина"
+    },
+    {
+        "de": "das Fleisch",
+        "ru": "мясо"
+    },
+    {
+        "de": "das Rindfleisch",
+        "ru": "говядина"
+    },
+    {
+        "de": "das Schweinefleisch",
+        "ru": "свинина"
+    },
+    {
+        "de": "das Lammfleisch",
+        "ru": "баранина"
+    },
+    {
+        "de": "das Hähnchen",
+        "ru": "курица (мясо)"
+    },
+    {
+        "de": "das Kotelett",
+        "ru": "котлета, отбивная"
+    },
+    {
+        "de": "der Fisch",
+        "ru": "рыба"
+    },
+    {
+        "de": "das Ei",
+        "ru": "яйцо"
+    },
+    {
+        "de": "der Salat",
+        "ru": "салат"
+    },
+    {
+        "de": "der Pilz",
+        "ru": "грибы"
+    },
+    {
+        "de": "der Mais",
+        "ru": "кукуруза"
+    },
+    {
+        "de": "der Brei",
+        "ru": "каша"
+    },
+    {
+        "de": "die Haferflocken",
+        "ru": "овсянка"
+    },
+    {
+        "de": "die Suppe",
+        "ru": "суп"
+    },
+    {
+        "de": "das belegte Brötchen",
+        "ru": "бутерброд"
+    },
+    {
+        "de": "der Reis",
+        "ru": "рис"
+    },
+    {
+        "de": "die Nudeln",
+        "ru": "лапша"
+    },
+    {
+        "de": "das Mehl",
+        "ru": "мука"
+    },
+    {
+        "de": "das Gewürz",
+        "ru": "специя, пряность"
+    },
+    {
+        "de": "der Pfeffer",
+        "ru": "перец"
+    },
+    {
+        "de": "das Salz",
+        "ru": "соль"
+    },
+    {
+        "de": "die Zwiebel",
+        "ru": "лук (репчатый)"
+    },
+    {
+        "de": "der Knoblauch",
+        "ru": "чеснок"
+    },
+    {
+        "de": "die Soße",
+        "ru": "соус"
+    },
+    {
+        "de": "das Gemüse",
+        "ru": "овощи"
+    },
+    {
+        "de": "die Kartoffeln",
+        "ru": "картофель"
+    },
+    {
+        "de": "die Mohrrübe",
+        "ru": "морковь"
+    },
+    {
+        "de": "die Zuckerrübe",
+        "ru": "свекла"
+    },
+    {
+        "de": "die Tomate",
+        "ru": "помидор"
+    },
+    {
+        "de": "die Gurke",
+        "ru": "огурец"
+    },
+    {
+        "de": "der Kohl",
+        "ru": "капуста"
+    },
+    {
+        "de": "die Zucchini [цукини]",
+        "ru": "кабачок"
+    },
+    {
+        "de": "die Aubergine [обэр'жинэ]",
+        "ru": "баклажан"
+    },
+    {
+        "de": "die Bohnen",
+        "ru": "бобы"
+    },
+    {
+        "de": "die Erbsen",
+        "ru": "горох"
+    },
+    {
+        "de": "die Nuss",
+        "ru": "орех"
+    },
+    {
+        "de": "das Obst",
+        "ru": "фрукты"
+    },
+    {
+        "de": "der Apfel",
+        "ru": "яблоко"
+    },
+    {
+        "de": "die Birne",
+        "ru": "груша"
+    },
+    {
+        "de": "die Banane",
+        "ru": "банан"
+    },
+    {
+        "de": "die Beere",
+        "ru": "ягода"
+    },
+    {
+        "de": "die Erdbeere",
+        "ru": "клубника, земляника"
+    },
+    {
+        "de": "die Himbeere",
+        "ru": "малина"
+    },
+    {
+        "de": "die Kirsche",
+        "ru": "вишня"
+    },
+    {
+        "de": "die Pflaume",
+        "ru": "слива"
+    },
+    {
+        "de": "die Trauben",
+        "ru": "виноград"
+    },
+    {
+        "de": "die Aprikose",
+        "ru": "абрикос"
+    },
+    {
+        "de": "der Pfirsich",
+        "ru": "персик"
+    },
+    {
+        "de": "die Melone",
+        "ru": "дыня"
+    },
+    {
+        "de": "die Wassermelone",
+        "ru": "арбуз"
+    },
+    {
+        "de": "der Kürbis",
+        "ru": "тыква"
+    },
+    {
+        "de": "die Orange [орáнжэ]",
+        "ru": "апельсин"
+    },
+    {
+        "de": "die Mandarine",
+        "ru": "мандарин"
+    },
+    {
+        "de": "die Zitrone",
+        "ru": "лимон"
+    },
+    {
+        "de": "die Ananas",
+        "ru": "ананас"
+    },
+    {
+        "de": "der Zucker",
+        "ru": "сахар"
+    },
+    {
+        "de": "der Honig",
+        "ru": "мёд"
+    },
+    {
+        "de": "die Marmelade",
+        "ru": "варенье"
+    },
+    {
+        "de": "der Kuchen",
+        "ru": "торт, пирог"
+    },
+    {
+        "de": "das Brötchen",
+        "ru": "булочка"
+    },
+    {
+        "de": "das Gebäck",
+        "ru": "печенье"
+    },
+    {
+        "de": "die Süßigkeiten",
+        "ru": "конфеты, сладости"
+    },
+    {
+        "de": "das Eis",
+        "ru": "мороженое; лёд"
+    },
+    {
+        "de": "die Schokolade",
+        "ru": "шоколад"
+    },
+    {
+        "de": "das Wasser",
+        "ru": "вода"
+    },
+    {
+        "de": "das Sodawasser",
+        "ru": "газировка"
+    },
+    {
+        "de": "der Saft",
+        "ru": "сок"
+    },
+    {
+        "de": "der Wein",
+        "ru": "вино"
+    },
+    {
+        "de": "der Tee",
+        "ru": "чай"
+    },
+    {
+        "de": "der Kaffee",
+        "ru": "кофе"
+    },
+    {
+        "de": "die Milch",
+        "ru": "молоко"
+    },
+    {
+        "de": "die Sahne",
+        "ru": "сливки"
+    },
+    {
+        "de": "der Joghurt",
+        "ru": "йогурт"
+    },
+    {
+        "de": "der Quark",
+        "ru": "творог"
+    },
+    {
+        "de": "das Geschirr",
+        "ru": "посуда"
+    },
+    {
+        "de": "die Tasse",
+        "ru": "чашка"
+    },
+    {
+        "de": "das Glas",
+        "ru": "стакан; стекло"
+    },
+    {
+        "de": "der Becher",
+        "ru": "кружка"
+    },
+    {
+        "de": "der Teller",
+        "ru": "тарелка"
+    },
+    {
+        "de": "der Löffel",
+        "ru": "ложка"
+    },
+    {
+        "de": "die Gabel",
+        "ru": "вилка"
+    },
+    {
+        "de": "das Messer",
+        "ru": "нож"
+    },
+    {
+        "de": "die Untertasse",
+        "ru": "блюдце"
+    },
+    {
+        "de": "die Flasche",
+        "ru": "бутылка"
+    },
+    {
+        "de": "die Serviette",
+        "ru": "салфетка"
+    },
+    {
+        "de": "der Topf",
+        "ru": "кастрюля; горшок"
+    },
+    {
+        "de": "die Pfanne",
+        "ru": "сковородка"
+    },
+    {
+        "de": "der Kessel",
+        "ru": "чайник; котел"
+    },
+    {
+        "de": "die Mahlzeit",
+        "ru": "принятие пищи, еда"
+    },
+    {
+        "de": "das Frühstück",
+        "ru": "завтрак"
+    },
+    {
+        "de": "das Mittagessen",
+        "ru": "обед"
+    },
+    {
+        "de": "das Abendessen",
+        "ru": "ужин"
+    },
+    {
+        "de": "der Transport",
+        "ru": "транспорт"
+    },
+    {
+        "de": "das Flugzeug",
+        "ru": "самолет"
+    },
+    {
+        "de": "das Auto",
+        "ru": "автомобиль"
+    },
+    {
+        "de": "die Straßenbahn",
+        "ru": "трамвай"
+    },
+    {
+        "de": "der Bus",
+        "ru": "автобус"
+    },
+    {
+        "de": "der Zug",
+        "ru": "поезд"
+    },
+    {
+        "de": "das Schiff",
+        "ru": "корабль"
+    },
+    {
+        "de": "das Fahrrad",
+        "ru": "велосипед"
+    },
+    {
+        "de": "die Zeit",
+        "ru": "время"
+    },
+    {
+        "de": "die Minute",
+        "ru": "минута"
+    },
+    {
+        "de": "die Stunde",
+        "ru": "час"
+    },
+    {
+        "de": "die Woche",
+        "ru": "неделя"
+    },
+    {
+        "de": "das Jahr",
+        "ru": "год"
+    },
+    {
+        "de": "das Jahrhundert",
+        "ru": "век, столетие"
+    },
+    {
+        "de": "das Mal",
+        "ru": "раз"
+    },
+    {
+        "de": "vorgestern",
+        "ru": "позавчера"
+    },
+    {
+        "de": "gestern",
+        "ru": "вчера"
+    },
+    {
+        "de": "heute",
+        "ru": "сегодня"
+    },
+    {
+        "de": "morgen",
+        "ru": "завтра"
+    },
+    {
+        "de": "übermorgen",
+        "ru": "послезавтра"
+    },
+    {
+        "de": "der Tag",
+        "ru": "день"
+    },
+    {
+        "de": "der Morgen",
+        "ru": "утро"
+    },
+    {
+        "de": "der Vormittag",
+        "ru": "время до полудня"
+    },
+    {
+        "de": "der Nachmittag",
+        "ru": "время после полудня"
+    },
+    {
+        "de": "der Abend",
+        "ru": "вечер"
+    },
+    {
+        "de": "die Nacht",
+        "ru": "ночь"
+    },
+    {
+        "de": "der Montag",
+        "ru": "понедельник"
+    },
+    {
+        "de": "der Dienstag",
+        "ru": "вторник"
+    },
+    {
+        "de": "der Mittwoch",
+        "ru": "среда"
+    },
+    {
+        "de": "der Donnerstag",
+        "ru": "четверг"
+    },
+    {
+        "de": "der Freitag",
+        "ru": "пятница"
+    },
+    {
+        "de": "der Samstag",
+        "ru": "суббота"
+    },
+    {
+        "de": "der Sonntag",
+        "ru": "воскресенье"
+    },
+    {
+        "de": "der Monat",
+        "ru": "месяц"
+    },
+    {
+        "de": "der Januar",
+        "ru": "январь"
+    },
+    {
+        "de": "der Februar",
+        "ru": "февраль"
+    },
+    {
+        "de": "der März",
+        "ru": "март"
+    },
+    {
+        "de": "der April",
+        "ru": "апрель"
+    },
+    {
+        "de": "der Mai",
+        "ru": "май"
+    },
+    {
+        "de": "der Juni",
+        "ru": "июнь"
+    },
+    {
+        "de": "der Juli",
+        "ru": "июль"
+    },
+    {
+        "de": "der August",
+        "ru": "август"
+    },
+    {
+        "de": "der September",
+        "ru": "сентябрь"
+    },
+    {
+        "de": "der Oktober",
+        "ru": "октябрь"
+    },
+    {
+        "de": "der November",
+        "ru": "ноябрь"
+    },
+    {
+        "de": "der Dezember",
+        "ru": "декабрь"
+    },
+    {
+        "de": "die Jahreszeit",
+        "ru": "время года"
+    },
+    {
+        "de": "der Frühling",
+        "ru": "весна"
+    },
+    {
+        "de": "der Sommer",
+        "ru": "лето"
+    },
+    {
+        "de": "der Herbst",
+        "ru": "осень"
+    },
+    {
+        "de": "der Winter",
+        "ru": "зима"
+    },
+    {
+        "de": "das Fest",
+        "ru": "праздник"
+    },
+    {
+        "de": "das Weihnachten",
+        "ru": "Рождество"
+    },
+    {
+        "de": "das Ostern",
+        "ru": "Пасха"
+    },
+    {
+        "de": "der Geburtstag",
+        "ru": "день рождения"
+    },
+    {
+        "de": "das Formular",
+        "ru": "формуляр, бланк"
+    },
+    {
+        "de": "der Name",
+        "ru": "имя, фамилия; название;"
+    },
+    {
+        "de": "der Vorname",
+        "ru": "имя"
+    },
+    {
+        "de": "der Familienname",
+        "ru": "фамилия"
+    },
+    {
+        "de": "der Mädchenname",
+        "ru": "девичья фамилия"
+    },
+    {
+        "de": "das Geburtsdatum",
+        "ru": "дата рождения"
+    },
+    {
+        "de": "der Geburtsort",
+        "ru": "место рождения"
+    },
+    {
+        "de": "die Adresse",
+        "ru": "адрес"
+    },
+    {
+        "de": "der Familienstand",
+        "ru": "семейное положение"
+    },
+    {
+        "de": "ledig",
+        "ru": "холостой, незамужняя"
+    },
+    {
+        "de": "verheiratet",
+        "ru": "женатый / замужняя"
+    },
+    {
+        "de": "geschieden",
+        "ru": "разведенный"
+    },
+    {
+        "de": "verwitwet",
+        "ru": "овдовевший"
+    },
+    {
+        "de": "die Sache",
+        "ru": "вещь"
+    },
+    {
+        "de": "der Kugelschreiber",
+        "ru": "ручка"
+    },
+    {
+        "de": "der Bleistift",
+        "ru": "карандаш"
+    },
+    {
+        "de": "das Buch",
+        "ru": "книга"
+    },
+    {
+        "de": "das Heft",
+        "ru": "тетрадь"
+    },
+    {
+        "de": "das Notizbuch",
+        "ru": "блокнот"
+    },
+    {
+        "de": "die Notiz",
+        "ru": "пометка, запись"
+    },
+    {
+        "de": "das Wörterbuch",
+        "ru": "словарь"
+    },
+    {
+        "de": "der Buchstabe",
+        "ru": "буква"
+    },
+    {
+        "de": "der Brief",
+        "ru": "письмо"
+    },
+    {
+        "de": "der Umschlag",
+        "ru": "конверт"
+    },
+    {
+        "de": "das Papier",
+        "ru": "бумага"
+    },
+    {
+        "de": "die Zeitung",
+        "ru": "газета"
+    },
+    {
+        "de": "die Zeitschrift",
+        "ru": "журнал"
+    },
+    {
+        "de": "das Telefon",
+        "ru": "телефон"
+    },
+    {
+        "de": "das Handy [хэнди]",
+        "ru": "сотовый телефон"
+    },
+    {
+        "de": "die Uhr",
+        "ru": "часы"
+    },
+    {
+        "de": "der Kamm",
+        "ru": "расчёска"
+    },
+    {
+        "de": "der Fernseher",
+        "ru": "телевизор"
+    },
+    {
+        "de": "das Bügeleisen",
+        "ru": "утюг"
+    },
+    {
+        "de": "die Seife",
+        "ru": "мыло"
+    },
+    {
+        "de": "das Radio",
+        "ru": "радио"
+    },
+    {
+        "de": "die Tasche",
+        "ru": "сумка"
+    },
+    {
+        "de": "der Rucksack",
+        "ru": "рюкзак"
+    },
+    {
+        "de": "die Karte",
+        "ru": "карта"
+    },
+    {
+        "de": "die Postkarte",
+        "ru": "открытка"
+    },
+    {
+        "de": "der Koffer",
+        "ru": "чемодан"
+    },
+    {
+        "de": "das Geschenk",
+        "ru": "подарок"
+    },
+    {
+        "de": "die Kamera",
+        "ru": "камера"
+    },
+    {
+        "de": "der Fotoapparat",
+        "ru": "фотоаппарат"
+    },
+    {
+        "de": "die Vase",
+        "ru": "ваза"
+    },
+    {
+        "de": "das Taschentuch",
+        "ru": "носовой платок"
+    },
+    {
+        "de": "der Ball",
+        "ru": "мяч"
+    },
+    {
+        "de": "der Luftballon",
+        "ru": "воздушный шар(ик)"
+    },
+    {
+        "de": "das Spielzeug",
+        "ru": "игрушка"
+    },
+    {
+        "de": "die Fahrkarte",
+        "ru": "билет (на поезд)"
+    },
+    {
+        "de": "der Fahrschein",
+        "ru": "билет (на городской транспорт)"
+    },
+    {
+        "de": "das Ticket",
+        "ru": "билет (на самолёт)"
+    },
+    {
+        "de": "das Gepäck",
+        "ru": "багаж"
+    },
+    {
+        "de": "die Batterie",
+        "ru": "батарейка, аккумулятор"
+    },
+    {
+        "de": "der Eimer",
+        "ru": "ведро"
+    },
+    {
+        "de": "die Leine",
+        "ru": "веревка"
+    },
+    {
+        "de": "die Tafel",
+        "ru": "доска (школьная), плитка (шоколада)"
+    },
+    {
+        "de": "das Brett",
+        "ru": "доска, брусок"
+    },
+    {
+        "de": "der Kalender",
+        "ru": "календарь"
+    },
+    {
+        "de": "der Laptop [лэптоп]",
+        "ru": "ноутбук"
+    },
+    {
+        "de": "die Bürste",
+        "ru": "щетка"
+    },
+    {
+        "de": "die Pinsel",
+        "ru": "кисть, кисточка"
+    },
+    {
+        "de": "die Tastatur",
+        "ru": "клавиатура"
+    },
+    {
+        "de": "die Taste",
+        "ru": "клавиша"
+    },
+    {
+        "de": "der Schlüssel",
+        "ru": "ключ"
+    },
+    {
+        "de": "das Rad",
+        "ru": "колесо"
+    },
+    {
+        "de": "das Lenkrad",
+        "ru": "руль"
+    },
+    {
+        "de": "der Kofferraum",
+        "ru": "багажник"
+    },
+    {
+        "de": "das Benzin",
+        "ru": "бензин"
+    },
+    {
+        "de": "die Geldbörse",
+        "ru": "кошелек"
+    },
+    {
+        "de": "die Brieftasche",
+        "ru": "бумажник"
+    },
+    {
+        "de": "die Lampe",
+        "ru": "лампа"
+    },
+    {
+        "de": "das Lineal",
+        "ru": "линейка"
+    },
+    {
+        "de": "die Schaufel",
+        "ru": "лопата"
+    },
+    {
+        "de": "die Maschine",
+        "ru": "машина; механизм"
+    },
+    {
+        "de": "der Hammer",
+        "ru": "молоток"
+    },
+    {
+        "de": "die Schere",
+        "ru": "ножницы"
+    },
+    {
+        "de": "die Brille",
+        "ru": "очки"
+    },
+    {
+        "de": "das Paket",
+        "ru": "посылка"
+    },
+    {
+        "de": "der Stock",
+        "ru": "палка"
+    },
+    {
+        "de": "der Klebstoff",
+        "ru": "клей"
+    },
+    {
+        "de": "das Handtuch",
+        "ru": "полотенце"
+    },
+    {
+        "de": "der Draht",
+        "ru": "проволока"
+    },
+    {
+        "de": "das Kabel",
+        "ru": "провод, кабель"
+    },
+    {
+        "de": "die Seite",
+        "ru": "страница"
+    },
+    {
+        "de": "die Taschenlampe",
+        "ru": "карманный фонарь"
+    },
+    {
+        "de": "der Kasten",
+        "ru": "ящик"
+    },
+    {
+        "de": "die Kiste",
+        "ru": "коробка"
+    },
+    {
+        "de": "das Laken",
+        "ru": "простыня"
+    },
+    {
+        "de": "das Kissen",
+        "ru": "подушка"
+    },
+    {
+        "de": "die Kleidung",
+        "ru": "одежда"
+    },
+    {
+        "de": "die Schuhe",
+        "ru": "обувь, туфли"
+    },
+    {
+        "de": "die Stiefel",
+        "ru": "сапоги"
+    },
+    {
+        "de": "die Turnschuhe",
+        "ru": "кроссовки"
+    },
+    {
+        "de": "der Mantel",
+        "ru": "пальто"
+    },
+    {
+        "de": "das Kleid",
+        "ru": "платье"
+    },
+    {
+        "de": "der Anzug",
+        "ru": "костюм"
+    },
+    {
+        "de": "das Hemd",
+        "ru": "рубашка"
+    },
+    {
+        "de": "die Bluse",
+        "ru": "блузка"
+    },
+    {
+        "de": "der Rock",
+        "ru": "юбка"
+    },
+    {
+        "de": "die Handschuhe",
+        "ru": "перчатки"
+    },
+    {
+        "de": "die Fäustlinge",
+        "ru": "варежки"
+    },
+    {
+        "de": "der Hut",
+        "ru": "шляпа"
+    },
+    {
+        "de": "die Mütze",
+        "ru": "шапка; кепка"
+    },
+    {
+        "de": "die Jacke",
+        "ru": "Куртка"
+    },
+    {
+        "de": "die Strickjacke",
+        "ru": "кофта"
+    },
+    {
+        "de": "das Sakko",
+        "ru": "пиджак"
+    },
+    {
+        "de": "der Schal",
+        "ru": "шарф"
+    },
+    {
+        "de": "die Socke",
+        "ru": "носок"
+    },
+    {
+        "de": "der Pullover",
+        "ru": "свитер"
+    },
+    {
+        "de": "das T",
+        "ru": "Shirt [тишёрт]"
+    },
+    {
+        "de": "die Krawatte",
+        "ru": "галстук"
+    },
+    {
+        "de": "die Hose",
+        "ru": "брюки, штаны"
+    },
+    {
+        "de": "die Shorts [шортс]",
+        "ru": "шорты"
+    },
+    {
+        "de": "die Strumpfhose",
+        "ru": "колготки"
+    },
+    {
+        "de": "die Strümpfe",
+        "ru": "чулки"
+    },
+    {
+        "de": "die Jeans [джинз]",
+        "ru": "джинсы"
+    },
+    {
+        "de": "die Kapuze",
+        "ru": "капюшон"
+    },
+    {
+        "de": "der Gürtel",
+        "ru": "ремень"
+    },
+    {
+        "de": "die Unterwäsche",
+        "ru": "нижнее белье"
+    },
+    {
+        "de": "die Unterhose",
+        "ru": "трусы"
+    },
+    {
+        "de": "der Büstenhaĺter",
+        "ru": "бюстгальтер"
+    },
+    {
+        "de": "der Körper",
+        "ru": "тело"
+    },
+    {
+        "de": "der Kopf",
+        "ru": "голова"
+    },
+    {
+        "de": "das Gesicht",
+        "ru": "лицо"
+    },
+    {
+        "de": "die Stirn",
+        "ru": "лоб"
+    },
+    {
+        "de": "die Nase",
+        "ru": "нос"
+    },
+    {
+        "de": "das Ohr",
+        "ru": "ухо"
+    },
+    {
+        "de": "der Mund",
+        "ru": "рот"
+    },
+    {
+        "de": "der Hals",
+        "ru": "горло; шея"
+    },
+    {
+        "de": "das Auge",
+        "ru": "глаз"
+    },
+    {
+        "de": "die Augenbraue",
+        "ru": "бровь"
+    },
+    {
+        "de": "die Lippen",
+        "ru": "губы"
+    },
+    {
+        "de": "der Zahn",
+        "ru": "зуб"
+    },
+    {
+        "de": "das Haar",
+        "ru": "волос(ы)"
+    },
+    {
+        "de": "der Schnurrbart",
+        "ru": "усы"
+    },
+    {
+        "de": "der Bart",
+        "ru": "борода"
+    },
+    {
+        "de": "die Wange",
+        "ru": "щека"
+    },
+    {
+        "de": "das Kinn",
+        "ru": "подбородок"
+    },
+    {
+        "de": "die Schulter",
+        "ru": "плечо"
+    },
+    {
+        "de": "die Brust",
+        "ru": "грудь"
+    },
+    {
+        "de": "das Herz",
+        "ru": "сердце"
+    },
+    {
+        "de": "der Bauch",
+        "ru": "живот"
+    },
+    {
+        "de": "der Rücken",
+        "ru": "спина"
+    },
+    {
+        "de": "das Handgelenk",
+        "ru": "запястье"
+    },
+    {
+        "de": "die Hand",
+        "ru": "рука, кисть (руки)"
+    },
+    {
+        "de": "der Arm",
+        "ru": "рука (вся)"
+    },
+    {
+        "de": "der Finger",
+        "ru": "палец (руки)"
+    },
+    {
+        "de": "der Nagel",
+        "ru": "ноготь; гвоздь"
+    },
+    {
+        "de": "der Ellenbogen",
+        "ru": "локоть"
+    },
+    {
+        "de": "das Bein",
+        "ru": "нога"
+    },
+    {
+        "de": "das Knie",
+        "ru": "колено"
+    },
+    {
+        "de": "der Fuß",
+        "ru": "нога, ступня; подножие"
+    },
+    {
+        "de": "die Ferse",
+        "ru": "пятка"
+    },
+    {
+        "de": "die Zehe",
+        "ru": "палец (ноги)"
+    },
+    {
+        "de": "der Knochen",
+        "ru": "кость"
+    },
+    {
+        "de": "die Gesundheit",
+        "ru": "здоровье"
+    },
+    {
+        "de": "gesund",
+        "ru": "здоровый"
+    },
+    {
+        "de": "krank",
+        "ru": "больной"
+    },
+    {
+        "de": "die Krankheit",
+        "ru": "болезнь"
+    },
+    {
+        "de": "das Fieber",
+        "ru": "жар, (высокая) температура"
+    },
+    {
+        "de": "der Husten",
+        "ru": "кашель"
+    },
+    {
+        "de": "der Schnupfen",
+        "ru": "насморк"
+    },
+    {
+        "de": "niesen",
+        "ru": "чихать"
+    },
+    {
+        "de": "der Schmerz",
+        "ru": "боль"
+    },
+    {
+        "de": "die Kopfschmerzen",
+        "ru": "головная боль"
+    },
+    {
+        "de": "weh tun",
+        "ru": "болеть"
+    },
+    {
+        "de": "die Grippe",
+        "ru": "грипп"
+    },
+    {
+        "de": "die Erkältung",
+        "ru": "простуда"
+    },
+    {
+        "de": "die Prellung",
+        "ru": "синяк, ушиб"
+    },
+    {
+        "de": "das Ereignis",
+        "ru": "событие"
+    },
+    {
+        "de": "die Geburt",
+        "ru": "рождение"
+    },
+    {
+        "de": "das Spiel",
+        "ru": "игра"
+    },
+    {
+        "de": "der Unterricht",
+        "ru": "занятие (урок), занятия"
+    },
+    {
+        "de": "der Urlaub",
+        "ru": "отпуск"
+    },
+    {
+        "de": "die Ferien",
+        "ru": "каникулы"
+    },
+    {
+        "de": "die Party [пати]",
+        "ru": "вечеринка"
+    },
+    {
+        "de": "das Treffen",
+        "ru": "встреча"
+    },
+    {
+        "de": "die Versammlung",
+        "ru": "собрание"
+    },
+    {
+        "de": "die Hochzeit",
+        "ru": "свадьба"
+    },
+    {
+        "de": "die Verhandlungen",
+        "ru": "переговоры"
+    },
+    {
+        "de": "die Reise",
+        "ru": "поездка, путешествие"
+    },
+    {
+        "de": "der Tod",
+        "ru": "смерть"
+    },
+    {
+        "de": "das Wetter",
+        "ru": "погода"
+    },
+    {
+        "de": "die Sonne",
+        "ru": "солнце"
+    },
+    {
+        "de": "der Mond",
+        "ru": "луна"
+    },
+    {
+        "de": "der Wind",
+        "ru": "ветер"
+    },
+    {
+        "de": "der Nebel",
+        "ru": "туман"
+    },
+    {
+        "de": "der Regen",
+        "ru": "дождь"
+    },
+    {
+        "de": "der Schnee",
+        "ru": "снег"
+    },
+    {
+        "de": "der Himmel",
+        "ru": "небо"
+    },
+    {
+        "de": "die Wolke",
+        "ru": "облако"
+    },
+    {
+        "de": "die Luft",
+        "ru": "воздух"
+    },
+    {
+        "de": "die Temperatur",
+        "ru": "температура"
+    },
+    {
+        "de": "der Grad",
+        "ru": "градус"
+    },
+    {
+        "de": "die Kunst",
+        "ru": "искусство"
+    },
+    {
+        "de": "die Musik",
+        "ru": "музыка"
+    },
+    {
+        "de": "das Lied",
+        "ru": "песня"
+    },
+    {
+        "de": "die Literatur",
+        "ru": "литература"
+    },
+    {
+        "de": "die Geschichte",
+        "ru": "рассказ, история"
+    },
+    {
+        "de": "der Film",
+        "ru": "фильм; пленка"
+    },
+    {
+        "de": "die Skulptur",
+        "ru": "скульптура"
+    },
+    {
+        "de": "das Bild",
+        "ru": "картина"
+    },
+    {
+        "de": "das Foto",
+        "ru": "фото"
+    },
+    {
+        "de": "die Werbung",
+        "ru": "реклама"
+    },
+    {
+        "de": "die Einkäufe",
+        "ru": "покупки"
+    },
+    {
+        "de": "die Größe",
+        "ru": "размер"
+    },
+    {
+        "de": "der Preis",
+        "ru": "цена"
+    },
+    {
+        "de": "das Geld",
+        "ru": "деньги"
+    },
+    {
+        "de": "das Bargeld",
+        "ru": "наличные (деньги)"
+    },
+    {
+        "de": "der Rabatt",
+        "ru": "скидка"
+    },
+    {
+        "de": "das Konto",
+        "ru": "счет (банковский)"
+    },
+    {
+        "de": "die Rechnung",
+        "ru": "счёт (для оплаты)"
+    },
+    {
+        "de": "das Trinkgeld",
+        "ru": "чаевые"
+    },
+    {
+        "de": "das Messen",
+        "ru": "измерение"
+    },
+    {
+        "de": "die Entfernung",
+        "ru": "расстояние"
+    },
+    {
+        "de": "die Distanz",
+        "ru": "дистанция"
+    },
+    {
+        "de": "die Länge",
+        "ru": "длина"
+    },
+    {
+        "de": "die Höhe",
+        "ru": "высота"
+    },
+    {
+        "de": "die Tiefe",
+        "ru": "глубина"
+    },
+    {
+        "de": "die Stärke",
+        "ru": "сила"
+    },
+    {
+        "de": "die Geschwindigkeit",
+        "ru": "скорость"
+    },
+    {
+        "de": "der Kilometer",
+        "ru": "километр"
+    },
+    {
+        "de": "das Kilogramm",
+        "ru": "килограмм"
+    },
+    {
+        "de": "das Pfund",
+        "ru": "фунт"
+    },
+    {
+        "de": "das Gefühl",
+        "ru": "чувство"
+    },
+    {
+        "de": "der Spaß",
+        "ru": "веселье"
+    },
+    {
+        "de": "die Freude",
+        "ru": "радость"
+    },
+    {
+        "de": "die Angst",
+        "ru": "страх"
+    },
+    {
+        "de": "die Traurigkeit",
+        "ru": "печаль"
+    },
+    {
+        "de": "die Leidenschaft",
+        "ru": "страсть, страстность"
+    },
+    {
+        "de": "das Vergnügen",
+        "ru": "удовольствие"
+    },
+    {
+        "de": "das Glück",
+        "ru": "счастье"
+    },
+    {
+        "de": "der Frieden",
+        "ru": "мир (покой)"
+    },
+    {
+        "de": "lieben",
+        "ru": "любить"
+    },
+    {
+        "de": "hassen",
+        "ru": "ненавидеть"
+    },
+    {
+        "de": "die Welt",
+        "ru": "мир (планета)"
+    },
+    {
+        "de": "die Seele",
+        "ru": "душа"
+    },
+    {
+        "de": "das Leben",
+        "ru": "жизнь"
+    },
+    {
+        "de": "das Wissen",
+        "ru": "знание"
+    },
+    {
+        "de": "die Aufgabe",
+        "ru": "задача, задание"
+    },
+    {
+        "de": "die Übung",
+        "ru": "упражнение"
+    },
+    {
+        "de": "das Problem",
+        "ru": "проблема"
+    },
+    {
+        "de": "die Gelegenheit",
+        "ru": "(благоприятная) возможность"
+    },
+    {
+        "de": "die Fähigkeit",
+        "ru": "способность"
+    },
+    {
+        "de": "die Schönheit",
+        "ru": "красота"
+    },
+    {
+        "de": "die Gefahr",
+        "ru": "опасность"
+    },
+    {
+        "de": "die Erfahrung",
+        "ru": "опыт"
+    },
+    {
+        "de": "das Gedächtnis",
+        "ru": "память"
+    },
+    {
+        "de": "die Erinnerung",
+        "ru": "воспоминание"
+    },
+    {
+        "de": "der Nutzen",
+        "ru": "польза"
+    },
+    {
+        "de": "der Vorteil",
+        "ru": "преимущество"
+    },
+    {
+        "de": "der Gewinn",
+        "ru": "выигрыш; прибыль, доход"
+    },
+    {
+        "de": "die Gewohnheit",
+        "ru": "привычка"
+    },
+    {
+        "de": "der Grund",
+        "ru": "причина; грунт, земля"
+    },
+    {
+        "de": "die Konsequenz",
+        "ru": "(по)следствие"
+    },
+    {
+        "de": "die Bedeutung",
+        "ru": "значение"
+    },
+    {
+        "de": "das Mittel",
+        "ru": "средство"
+    },
+    {
+        "de": "die Anstrengung",
+        "ru": "усилие"
+    },
+    {
+        "de": "der Erfolg",
+        "ru": "успех"
+    },
+    {
+        "de": "das Ziel",
+        "ru": "цель"
+    },
+    {
+        "de": "das Wunder",
+        "ru": "чудо"
+    },
+    {
+        "de": "die Wissenschaft",
+        "ru": "наука"
+    },
+    {
+        "de": "die Sprache",
+        "ru": "язык"
+    },
+    {
+        "de": "das Wort",
+        "ru": "слово"
+    },
+    {
+        "de": "das Feuer",
+        "ru": "огонь"
+    },
+    {
+        "de": "der Fall",
+        "ru": "случай; дело; падение"
+    },
+    {
+        "de": "der Umstand",
+        "ru": "обстоятельство"
+    },
+    {
+        "de": "der Gedanke",
+        "ru": "мысль"
+    },
+    {
+        "de": "die Wahl",
+        "ru": "выбор"
+    },
+    {
+        "de": "die Erlaubnis",
+        "ru": "разрешение"
+    },
+    {
+        "de": "die Lieferung",
+        "ru": "доставка; поставка"
+    },
+    {
+        "de": "die Leistung",
+        "ru": "достижение, успех"
+    },
+    {
+        "de": "die Pflicht",
+        "ru": "обязанность"
+    },
+    {
+        "de": "die Verzögerung",
+        "ru": "задержка, промедление"
+    },
+    {
+        "de": "die Beziehung",
+        "ru": "отношение"
+    },
+    {
+        "de": "die Note",
+        "ru": "оценка, отметка, знак; нота"
+    },
+    {
+        "de": "der Fehler",
+        "ru": "ошибка"
+    },
+    {
+        "de": "das Benehmen",
+        "ru": "поведение"
+    },
+    {
+        "de": "die Einladung",
+        "ru": "приглашение"
+    },
+    {
+        "de": "die Entwicklung",
+        "ru": "развитие"
+    },
+    {
+        "de": "die Entscheidung",
+        "ru": "решение, принятие решения"
+    },
+    {
+        "de": "die Lösung",
+        "ru": "решение (проблемы)"
+    },
+    {
+        "de": "der Rat",
+        "ru": "совет"
+    },
+    {
+        "de": "die Vereinbarung",
+        "ru": "соглашение; согласие"
+    },
+    {
+        "de": "der Vertrag",
+        "ru": "договор"
+    },
+    {
+        "de": "die Liste",
+        "ru": "список"
+    },
+    {
+        "de": "der Streit",
+        "ru": "спор"
+    },
+    {
+        "de": "der Test",
+        "ru": "тест, испытание"
+    },
+    {
+        "de": "die Prüfung",
+        "ru": "экзамен"
+    },
+    {
+        "de": "der Schritt",
+        "ru": "шаг"
+    },
+    {
+        "de": "das Stück",
+        "ru": "кусок; штука"
+    },
+    {
+        "de": "der Bereich",
+        "ru": "область, сфера"
+    },
+    {
+        "de": "das Paar",
+        "ru": "пара"
+    },
+    {
+        "de": "die Oberfläche",
+        "ru": "поверхность"
+    },
+    {
+        "de": "die Ordnung",
+        "ru": "порядок"
+    },
+    {
+        "de": "die Frage",
+        "ru": "вопрос"
+    },
+    {
+        "de": "was",
+        "ru": "что"
+    },
+    {
+        "de": "wer",
+        "ru": "кто"
+    },
+    {
+        "de": "wo",
+        "ru": "где"
+    },
+    {
+        "de": "wohin",
+        "ru": "куда"
+    },
+    {
+        "de": "woher",
+        "ru": "откуда"
+    },
+    {
+        "de": "wie",
+        "ru": "как"
+    },
+    {
+        "de": "welcher",
+        "ru": "какой"
+    },
+    {
+        "de": "warum",
+        "ru": "почему"
+    },
+    {
+        "de": "wozu",
+        "ru": "зачем"
+    },
+    {
+        "de": "wenn",
+        "ru": "когда; если"
+    },
+    {
+        "de": "wie viel (wie viele)",
+        "ru": "сколько"
+    },
+    {
+        "de": "ich",
+        "ru": "я"
+    },
+    {
+        "de": "du",
+        "ru": "ты"
+    },
+    {
+        "de": "er",
+        "ru": "он"
+    },
+    {
+        "de": "sie",
+        "ru": "она"
+    },
+    {
+        "de": "es",
+        "ru": "оно"
+    },
+    {
+        "de": "wir",
+        "ru": "мы"
+    },
+    {
+        "de": "ihr",
+        "ru": "вы"
+    },
+    {
+        "de": "sie",
+        "ru": "они"
+    },
+    {
+        "de": "Sie",
+        "ru": "Вы"
+    },
+    {
+        "de": "mein",
+        "ru": "мой"
+    },
+    {
+        "de": "dein",
+        "ru": "твой"
+    },
+    {
+        "de": "sein",
+        "ru": "его"
+    },
+    {
+        "de": "ihr",
+        "ru": "её; их"
+    },
+    {
+        "de": "unser",
+        "ru": "наш"
+    },
+    {
+        "de": "euer",
+        "ru": "ваш"
+    },
+    {
+        "de": "Ihr",
+        "ru": "Ваш"
+    },
+    {
+        "de": "aus",
+        "ru": "из"
+    },
+    {
+        "de": "von",
+        "ru": "от; передает род. падеж; с (такого"
+    },
+    {
+        "de": "seit",
+        "ru": "с (такого"
+    },
+    {
+        "de": "zu",
+        "ru": "к; слишком"
+    },
+    {
+        "de": "in",
+        "ru": "в; через (такое"
+    },
+    {
+        "de": "auf",
+        "ru": "на"
+    },
+    {
+        "de": "unter",
+        "ru": "под"
+    },
+    {
+        "de": "hinter",
+        "ru": "позади"
+    },
+    {
+        "de": "mit",
+        "ru": "с"
+    },
+    {
+        "de": "ohne",
+        "ru": "без"
+    },
+    {
+        "de": "vor",
+        "ru": "перед, до; (столько"
+    },
+    {
+        "de": "nach",
+        "ru": "после; в (такой"
+    },
+    {
+        "de": "zwischen",
+        "ru": "между"
+    },
+    {
+        "de": "neben",
+        "ru": "возле, около"
+    },
+    {
+        "de": "für",
+        "ru": "для; на (такое"
+    },
+    {
+        "de": "während",
+        "ru": "во время"
+    },
+    {
+        "de": "um",
+        "ru": "вокруг"
+    },
+    {
+        "de": "wegen",
+        "ru": "из"
+    },
+    {
+        "de": "über",
+        "ru": "над; о; свыше"
+    },
+    {
+        "de": "gegen",
+        "ru": "против"
+    },
+    {
+        "de": "unter",
+        "ru": "под; среди"
+    },
+    {
+        "de": "durch",
+        "ru": "через"
+    },
+    {
+        "de": "pro",
+        "ru": "(километров) в (час)"
+    },
+    {
+        "de": "die Zahl",
+        "ru": "число, цифра; количество"
+    },
+    {
+        "de": "null",
+        "ru": "ноль"
+    },
+    {
+        "de": "eins",
+        "ru": "один"
+    },
+    {
+        "de": "zwei",
+        "ru": "два"
+    },
+    {
+        "de": "drei",
+        "ru": "три"
+    },
+    {
+        "de": "vier",
+        "ru": "четыре"
+    },
+    {
+        "de": "fünf",
+        "ru": "пять"
+    },
+    {
+        "de": "sechs",
+        "ru": "шесть"
+    },
+    {
+        "de": "sieben",
+        "ru": "семь"
+    },
+    {
+        "de": "acht",
+        "ru": "восемь"
+    },
+    {
+        "de": "neun",
+        "ru": "девять"
+    },
+    {
+        "de": "zehn",
+        "ru": "десять"
+    },
+    {
+        "de": "elf",
+        "ru": "одиннадцать"
+    },
+    {
+        "de": "zwölf",
+        "ru": "двенадцать"
+    },
+    {
+        "de": "dreizehn",
+        "ru": "тринадцать"
+    },
+    {
+        "de": "vierzehn",
+        "ru": "четырнадцать"
+    },
+    {
+        "de": "fünfzehn",
+        "ru": "пятнадцать"
+    },
+    {
+        "de": "sechzehn",
+        "ru": "шестнадцать"
+    },
+    {
+        "de": "siebzehn",
+        "ru": "семнадцать"
+    },
+    {
+        "de": "achtzehn",
+        "ru": "восемнадцать"
+    },
+    {
+        "de": "neunzehn",
+        "ru": "девятнадцать"
+    },
+    {
+        "de": "zwanzig",
+        "ru": "двадцать"
+    },
+    {
+        "de": "dreißig",
+        "ru": "тридцать"
+    },
+    {
+        "de": "vierzig",
+        "ru": "сорок"
+    },
+    {
+        "de": "fünfzig",
+        "ru": "пятьдесят"
+    },
+    {
+        "de": "sechzig",
+        "ru": "шестьдесят"
+    },
+    {
+        "de": "siebzig",
+        "ru": "семьдесят"
+    },
+    {
+        "de": "achtzig",
+        "ru": "восемьдесят"
+    },
+    {
+        "de": "neunzig",
+        "ru": "девяносто"
+    },
+    {
+        "de": "hundert",
+        "ru": "сто"
+    },
+    {
+        "de": "tausend",
+        "ru": "тысяча"
+    },
+    {
+        "de": "der erste",
+        "ru": "первый"
+    },
+    {
+        "de": "der zweite",
+        "ru": "второй"
+    },
+    {
+        "de": "der dritte",
+        "ru": "третий"
+    },
+    {
+        "de": "der vierte",
+        "ru": "четвертый"
+    },
+    {
+        "de": "die Farbe",
+        "ru": "цвет, краска"
+    },
+    {
+        "de": "schwarz",
+        "ru": "чёрный"
+    },
+    {
+        "de": "blau",
+        "ru": "голубой; синий"
+    },
+    {
+        "de": "braun",
+        "ru": "коричневый"
+    },
+    {
+        "de": "grün",
+        "ru": "зелёный"
+    },
+    {
+        "de": "grau",
+        "ru": "серый"
+    },
+    {
+        "de": "rot",
+        "ru": "красный"
+    },
+    {
+        "de": "weiß",
+        "ru": "белый"
+    },
+    {
+        "de": "gelb",
+        "ru": "желтый"
+    },
+    {
+        "de": "rosa",
+        "ru": "розовый"
+    },
+    {
+        "de": "violett",
+        "ru": "фиолетовый"
+    },
+    {
+        "de": "alt",
+        "ru": "старый"
+    },
+    {
+        "de": "jung",
+        "ru": "молодой"
+    },
+    {
+        "de": "neu",
+        "ru": "новый"
+    },
+    {
+        "de": "groß",
+        "ru": "большой"
+    },
+    {
+        "de": "riesig",
+        "ru": "огромный"
+    },
+    {
+        "de": "klein",
+        "ru": "маленький"
+    },
+    {
+        "de": "dick",
+        "ru": "толстый; густой"
+    },
+    {
+        "de": "dünn",
+        "ru": "тонкий"
+    },
+    {
+        "de": "hungrig",
+        "ru": "голодный"
+    },
+    {
+        "de": "satt",
+        "ru": "сытый"
+    },
+    {
+        "de": "voll",
+        "ru": "полный"
+    },
+    {
+        "de": "leer",
+        "ru": "пустой"
+    },
+    {
+        "de": "gut",
+        "ru": "хороший; добрый"
+    },
+    {
+        "de": "ausgezeichnet",
+        "ru": "отличный"
+    },
+    {
+        "de": "erstaunlich",
+        "ru": "удивительный"
+    },
+    {
+        "de": "wunderschön",
+        "ru": "прекрасный, чудесный"
+    },
+    {
+        "de": "schlecht",
+        "ru": "плохой"
+    },
+    {
+        "de": "schrecklich",
+        "ru": "ужасный"
+    },
+    {
+        "de": "früh",
+        "ru": "ранний; рано"
+    },
+    {
+        "de": "spät",
+        "ru": "поздний; поздно"
+    },
+    {
+        "de": "letzt",
+        "ru": "последний, прошлый"
+    },
+    {
+        "de": "nächst",
+        "ru": "следующий"
+    },
+    {
+        "de": "frei",
+        "ru": "свободный"
+    },
+    {
+        "de": "kostenlos",
+        "ru": "бесплатный"
+    },
+    {
+        "de": "beschäftigt",
+        "ru": "занятый"
+    },
+    {
+        "de": "heiß",
+        "ru": "жаркий; горячий"
+    },
+    {
+        "de": "warm",
+        "ru": "тёплый"
+    },
+    {
+        "de": "kalt",
+        "ru": "холодный"
+    },
+    {
+        "de": "kühl",
+        "ru": "прохладный"
+    },
+    {
+        "de": "scharf",
+        "ru": "острый"
+    },
+    {
+        "de": "stumpf",
+        "ru": "тупой (нож)"
+    },
+    {
+        "de": "dumm",
+        "ru": "глупый"
+    },
+    {
+        "de": "klug",
+        "ru": "умный"
+    },
+    {
+        "de": "schön",
+        "ru": "красивый"
+    },
+    {
+        "de": "attraktiv",
+        "ru": "привлекательный"
+    },
+    {
+        "de": "hübsch",
+        "ru": "симпатичный"
+    },
+    {
+        "de": "hässlich",
+        "ru": "уродливый, безобразный, отвратительный"
+    },
+    {
+        "de": "hoch",
+        "ru": "высокий"
+    },
+    {
+        "de": "niedrig",
+        "ru": "низкий"
+    },
+    {
+        "de": "lang",
+        "ru": "длинный; долгий"
+    },
+    {
+        "de": "kurz",
+        "ru": "короткий"
+    },
+    {
+        "de": "schwer",
+        "ru": "тяжёлый"
+    },
+    {
+        "de": "leicht",
+        "ru": "лёгкий"
+    },
+    {
+        "de": "schwierig",
+        "ru": "трудный, тяжелый"
+    },
+    {
+        "de": "einfach",
+        "ru": "простой"
+    },
+    {
+        "de": "dunkel",
+        "ru": "тёмный"
+    },
+    {
+        "de": "hell",
+        "ru": "светлый"
+    },
+    {
+        "de": "teuer",
+        "ru": "дорогой (о цене)"
+    },
+    {
+        "de": "lieb",
+        "ru": "дорогой, милый"
+    },
+    {
+        "de": "billig",
+        "ru": "дешёвый"
+    },
+    {
+        "de": "arm",
+        "ru": "бедный"
+    },
+    {
+        "de": "reich",
+        "ru": "богатый"
+    },
+    {
+        "de": "gerade",
+        "ru": "прямой; прямо"
+    },
+    {
+        "de": "links",
+        "ru": "cлева"
+    },
+    {
+        "de": "rechts",
+        "ru": "справа"
+    },
+    {
+        "de": "falsch",
+        "ru": "неправильный"
+    },
+    {
+        "de": "schnell",
+        "ru": "быстрый"
+    },
+    {
+        "de": "langsam",
+        "ru": "медленный"
+    },
+    {
+        "de": "weich",
+        "ru": "мягкий"
+    },
+    {
+        "de": "hart",
+        "ru": "твёрдый; жесткий; трудный"
+    },
+    {
+        "de": "traurig",
+        "ru": "печальный"
+    },
+    {
+        "de": "froh",
+        "ru": "радостный"
+    },
+    {
+        "de": "glücklich",
+        "ru": "счастливый"
+    },
+    {
+        "de": "lustig",
+        "ru": "веселый"
+    },
+    {
+        "de": "böse",
+        "ru": "сердитый, злой"
+    },
+    {
+        "de": "höflich",
+        "ru": "вежливый"
+    },
+    {
+        "de": "grob",
+        "ru": "грубый"
+    },
+    {
+        "de": "zart",
+        "ru": "нежный"
+    },
+    {
+        "de": "mutig",
+        "ru": "смелый"
+    },
+    {
+        "de": "feige",
+        "ru": "трусливый"
+    },
+    {
+        "de": "scheu",
+        "ru": "застенчивый"
+    },
+    {
+        "de": "fleißig",
+        "ru": "прилежный"
+    },
+    {
+        "de": "faul",
+        "ru": "ленивый"
+    },
+    {
+        "de": "nützlich",
+        "ru": "полезный"
+    },
+    {
+        "de": "nutzlos",
+        "ru": "бесполезный"
+    },
+    {
+        "de": "stark",
+        "ru": "сильный; крепкий"
+    },
+    {
+        "de": "schwach",
+        "ru": "слабый"
+    },
+    {
+        "de": "laut",
+        "ru": "громкий, шумный"
+    },
+    {
+        "de": "leise",
+        "ru": "тихий, негромкий"
+    },
+    {
+        "de": "ruhig",
+        "ru": "тихий, спокойный"
+    },
+    {
+        "de": "eng",
+        "ru": "узкий"
+    },
+    {
+        "de": "breit",
+        "ru": "широкий"
+    },
+    {
+        "de": "sauber",
+        "ru": "чистый"
+    },
+    {
+        "de": "schmutzig",
+        "ru": "грязный"
+    },
+    {
+        "de": "müde",
+        "ru": "усталый"
+    },
+    {
+        "de": "ehrlich",
+        "ru": "честный"
+    },
+    {
+        "de": "bequem",
+        "ru": "уютный"
+    },
+    {
+        "de": "seltsam",
+        "ru": "странный"
+    },
+    {
+        "de": "eigen",
+        "ru": "собственный"
+    },
+    {
+        "de": "schmackhaft",
+        "ru": "вкусный"
+    },
+    {
+        "de": "bitter",
+        "ru": "горький"
+    },
+    {
+        "de": "sauer",
+        "ru": "кислый"
+    },
+    {
+        "de": "salzig",
+        "ru": "соленый"
+    },
+    {
+        "de": "bereit",
+        "ru": "готовый (что"
+    },
+    {
+        "de": "fertig",
+        "ru": "готовый (завершенный)"
+    },
+    {
+        "de": "aufmerksam",
+        "ru": "внимательный"
+    },
+    {
+        "de": "vorsichtig",
+        "ru": "осторожный"
+    },
+    {
+        "de": "Haupt...",
+        "ru": "главный"
+    },
+    {
+        "de": "fähig",
+        "ru": "способный"
+    },
+    {
+        "de": "notwendig",
+        "ru": "необходимый"
+    },
+    {
+        "de": "wichtig",
+        "ru": "важный"
+    },
+    {
+        "de": "sicher",
+        "ru": "уверенный"
+    },
+    {
+        "de": "echt",
+        "ru": "настоящий, истинный; \"правда?\""
+    },
+    {
+        "de": "besser",
+        "ru": "лучше; более хороший"
+    },
+    {
+        "de": "best",
+        "ru": "лучший"
+    },
+    {
+        "de": "mehr",
+        "ru": "больше (по количеству); более"
+    },
+    {
+        "de": "meist",
+        "ru": "наибольший (по количеству)"
+    },
+    {
+        "de": "lieber",
+        "ru": "лучше, охотней"
+    },
+    {
+        "de": "am liebsten",
+        "ru": "охотней всего"
+    },
+    {
+        "de": "manchmal",
+        "ru": "иногда"
+    },
+    {
+        "de": "nie",
+        "ru": "никогда"
+    },
+    {
+        "de": "selten",
+        "ru": "редко"
+    },
+    {
+        "de": "gewöhnlich",
+        "ru": "обычно"
+    },
+    {
+        "de": "oft",
+        "ru": "часто"
+    },
+    {
+        "de": "immer",
+        "ru": "всегда"
+    },
+    {
+        "de": "bald",
+        "ru": "скоро"
+    },
+    {
+        "de": "vor kurzem",
+        "ru": "недавно"
+    },
+    {
+        "de": "weit",
+        "ru": "далеко"
+    },
+    {
+        "de": "genau",
+        "ru": "точно"
+    },
+    {
+        "de": "wahrscheinlich",
+        "ru": "вероятно"
+    },
+    {
+        "de": "vielleicht",
+        "ru": "может быть"
+    },
+    {
+        "de": "wirklich",
+        "ru": "действительно"
+    },
+    {
+        "de": "natürlich",
+        "ru": "конечно"
+    },
+    {
+        "de": "sicherlich",
+        "ru": "наверняка, безусловно"
+    },
+    {
+        "de": "offensichtlich",
+        "ru": "очевидно"
+    },
+    {
+        "de": "besonders",
+        "ru": "особенно"
+    },
+    {
+        "de": "gern",
+        "ru": "охотно"
+    },
+    {
+        "de": "ja",
+        "ru": "да"
+    },
+    {
+        "de": "nein",
+        "ru": "нет"
+    },
+    {
+        "de": "nicht",
+        "ru": "не"
+    },
+    {
+        "de": "dieser",
+        "ru": "этот"
+    },
+    {
+        "de": "jener",
+        "ru": "тот"
+    },
+    {
+        "de": "viele",
+        "ru": "много (+ слово во множественном числе)"
+    },
+    {
+        "de": "viel",
+        "ru": "много (+ слово в единственном числе)"
+    },
+    {
+        "de": "wenig",
+        "ru": "мало"
+    },
+    {
+        "de": "einige",
+        "ru": "некоторые"
+    },
+    {
+        "de": "mehrere",
+        "ru": "несколько"
+    },
+    {
+        "de": "jemand",
+        "ru": "кто"
+    },
+    {
+        "de": "niemand",
+        "ru": "никто"
+    },
+    {
+        "de": "etwas",
+        "ru": "что"
+    },
+    {
+        "de": "nichts",
+        "ru": "ничто"
+    },
+    {
+        "de": "alles",
+        "ru": "всё"
+    },
+    {
+        "de": "alle",
+        "ru": "все"
+    },
+    {
+        "de": "hier",
+        "ru": "здесь"
+    },
+    {
+        "de": "hierher",
+        "ru": "сюда"
+    },
+    {
+        "de": "dort",
+        "ru": "там"
+    },
+    {
+        "de": "dorthin",
+        "ru": "туда"
+    },
+    {
+        "de": "da",
+        "ru": "тут; так как"
+    },
+    {
+        "de": "jetzt",
+        "ru": "сейчас"
+    },
+    {
+        "de": "wieder",
+        "ru": "снова, опять"
+    },
+    {
+        "de": "dann",
+        "ru": "потом"
+    },
+    {
+        "de": "damals",
+        "ru": "тогда"
+    },
+    {
+        "de": "als",
+        "ru": "чем (при сравнении); когда; в качестве"
+    },
+    {
+        "de": "schon",
+        "ru": "уже"
+    },
+    {
+        "de": "nur",
+        "ru": "только"
+    },
+    {
+        "de": "noch",
+        "ru": "ещё"
+    },
+    {
+        "de": "fast",
+        "ru": "почти"
+    },
+    {
+        "de": "sehr",
+        "ru": "очень"
+    },
+    {
+        "de": "jeder",
+        "ru": "каждый"
+    },
+    {
+        "de": "anderer",
+        "ru": "другой"
+    },
+    {
+        "de": "solcher",
+        "ru": "такой"
+    },
+    {
+        "de": "so",
+        "ru": "так"
+    },
+    {
+        "de": "also",
+        "ru": "итак"
+    },
+    {
+        "de": "oben",
+        "ru": "вверху"
+    },
+    {
+        "de": "unten",
+        "ru": "внизу"
+    },
+    {
+        "de": "zusammen",
+        "ru": "вместе"
+    },
+    {
+        "de": "vorwärts",
+        "ru": "вперед"
+    },
+    {
+        "de": "vorne",
+        "ru": "впереди"
+    },
+    {
+        "de": "sogar",
+        "ru": "даже"
+    },
+    {
+        "de": "genug",
+        "ru": "достаточно"
+    },
+    {
+        "de": "auch",
+        "ru": "тоже, также"
+    },
+    {
+        "de": "und",
+        "ru": "и"
+    },
+    {
+        "de": "oder",
+        "ru": "или"
+    },
+    {
+        "de": "aber",
+        "ru": "но"
+    },
+    {
+        "de": "jedoch",
+        "ru": "однако"
+    },
+    {
+        "de": "weil",
+        "ru": "потому что, так как"
+    },
+    {
+        "de": "deshalb",
+        "ru": "поэтому"
+    },
+    {
+        "de": "ob",
+        "ru": "ли"
+    },
+    {
+        "de": "obwohl",
+        "ru": "хотя"
+    },
+    {
+        "de": "dass",
+        "ru": "что"
+    },
+    {
+        "de": "sein",
+        "ru": "быть, являться"
+    },
+    {
+        "de": "tun",
+        "ru": "делать (вообще)"
+    },
+    {
+        "de": "machen",
+        "ru": "делать (что"
+    },
+    {
+        "de": "haben",
+        "ru": "иметь"
+    },
+    {
+        "de": "können",
+        "ru": "мочь (быть в состоянии)"
+    },
+    {
+        "de": "dürfen",
+        "ru": "мочь (иметь разрешение)"
+    },
+    {
+        "de": "wollen",
+        "ru": "хотеть"
+    },
+    {
+        "de": "mögen",
+        "ru": "любить, нравиться"
+    },
+    {
+        "de": "möchten",
+        "ru": "хотелось бы"
+    },
+    {
+        "de": "müssen",
+        "ru": "быть должным (по внутренним причинам)"
+    },
+    {
+        "de": "sollen",
+        "ru": "быть должным (по внешним причинам)"
+    },
+    {
+        "de": "haben zu",
+        "ru": "должен (что"
+    },
+    {
+        "de": "sein zu",
+        "ru": "должен (быть сделанным)"
+    },
+    {
+        "de": "brauchen",
+        "ru": "нуждаться"
+    },
+    {
+        "de": "gehen",
+        "ru": "идти"
+    },
+    {
+        "de": "fahren",
+        "ru": "ехать"
+    },
+    {
+        "de": "finden",
+        "ru": "находить"
+    },
+    {
+        "de": "halten",
+        "ru": "держать; останавливаться"
+    },
+    {
+        "de": "stehen",
+        "ru": "стоять"
+    },
+    {
+        "de": "sitzen",
+        "ru": "сидеть"
+    },
+    {
+        "de": "hören",
+        "ru": "слышать, слушать"
+    },
+    {
+        "de": "gewinnen",
+        "ru": "побеждать, выигрывать"
+    },
+    {
+        "de": "erhalten",
+        "ru": "получать (офиц.)"
+    },
+    {
+        "de": "bekommen",
+        "ru": "получать"
+    },
+    {
+        "de": "kriegen",
+        "ru": "получать (разг.)"
+    },
+    {
+        "de": "kommen",
+        "ru": "приходить, приезжать"
+    },
+    {
+        "de": "werden",
+        "ru": "становиться; передаёт будущее время; передаёт страдательный залог"
+    },
+    {
+        "de": "laufen",
+        "ru": "бежать"
+    },
+    {
+        "de": "sehen",
+        "ru": "видеть"
+    },
+    {
+        "de": "schreiben",
+        "ru": "писать"
+    },
+    {
+        "de": "fallen",
+        "ru": "падать"
+    },
+    {
+        "de": "tragen",
+        "ru": "носить"
+    },
+    {
+        "de": "nehmen",
+        "ru": "брать"
+    },
+    {
+        "de": "geben",
+        "ru": "давать"
+    },
+    {
+        "de": "schenken",
+        "ru": "дарить"
+    },
+    {
+        "de": "entschuldigen",
+        "ru": "прощать"
+    },
+    {
+        "de": "vergessen",
+        "ru": "забывать"
+    },
+    {
+        "de": "essen",
+        "ru": "кушать"
+    },
+    {
+        "de": "liegen",
+        "ru": "лежать"
+    },
+    {
+        "de": "legen",
+        "ru": "класть"
+    },
+    {
+        "de": "lügen",
+        "ru": "лгать"
+    },
+    {
+        "de": "führen",
+        "ru": "вести"
+    },
+    {
+        "de": "füttern",
+        "ru": "кормить"
+    },
+    {
+        "de": "sagen",
+        "ru": "сказать"
+    },
+    {
+        "de": "bezahlen",
+        "ru": "оплачивать"
+    },
+    {
+        "de": "trinken",
+        "ru": "пить"
+    },
+    {
+        "de": "schwimmen",
+        "ru": "плавать"
+    },
+    {
+        "de": "singen",
+        "ru": "петь"
+    },
+    {
+        "de": "beginnen",
+        "ru": "начинать"
+    },
+    {
+        "de": "klingen",
+        "ru": "звенеть"
+    },
+    {
+        "de": "rufen",
+        "ru": "звать; кричать"
+    },
+    {
+        "de": "anrufen",
+        "ru": "звонить"
+    },
+    {
+        "de": "sinken",
+        "ru": "опускаться; погружаться"
+    },
+    {
+        "de": "stinken",
+        "ru": "вонять"
+    },
+    {
+        "de": "fliegen",
+        "ru": "летать"
+    },
+    {
+        "de": "wissen",
+        "ru": "знать"
+    },
+    {
+        "de": "kennen",
+        "ru": "знать, быть знакомым"
+    },
+    {
+        "de": "zeichnen",
+        "ru": "рисовать, чертить"
+    },
+    {
+        "de": "malen",
+        "ru": "рисовать"
+    },
+    {
+        "de": "werfen",
+        "ru": "кидать, бросать"
+    },
+    {
+        "de": "wachsen",
+        "ru": "расти"
+    },
+    {
+        "de": "blasen",
+        "ru": "дуть"
+    },
+    {
+        "de": "sprechen",
+        "ru": "разговаривать, говорить"
+    },
+    {
+        "de": "wählen",
+        "ru": "выбирать"
+    },
+    {
+        "de": "wecken",
+        "ru": "будить"
+    },
+    {
+        "de": "brechen",
+        "ru": "ломать"
+    },
+    {
+        "de": "zeigen",
+        "ru": "показывать"
+    },
+    {
+        "de": "schneiden",
+        "ru": "резать"
+    },
+    {
+        "de": "setzen, sich",
+        "ru": "садиться"
+    },
+    {
+        "de": "kosten",
+        "ru": "стоить"
+    },
+    {
+        "de": "lassen",
+        "ru": "позволять; оставлять"
+    },
+    {
+        "de": "schließen",
+        "ru": "закрывать"
+    },
+    {
+        "de": "schlagen",
+        "ru": "ударять, бить"
+    },
+    {
+        "de": "lesen",
+        "ru": "читать"
+    },
+    {
+        "de": "senden",
+        "ru": "посылать"
+    },
+    {
+        "de": "verbringen",
+        "ru": "проводить (время)"
+    },
+    {
+        "de": "leihen",
+        "ru": "одолжить"
+    },
+    {
+        "de": "bauen",
+        "ru": "строить"
+    },
+    {
+        "de": "fühlen",
+        "ru": "чувствовать"
+    },
+    {
+        "de": "treffen",
+        "ru": "встречать; попасть (в цель)"
+    },
+    {
+        "de": "schlafen",
+        "ru": "спать"
+    },
+    {
+        "de": "verlassen",
+        "ru": "покидать"
+    },
+    {
+        "de": "kaufen",
+        "ru": "покупать"
+    },
+    {
+        "de": "bringen",
+        "ru": "приносить, привозить"
+    },
+    {
+        "de": "lehren",
+        "ru": "учить, обучать"
+    },
+    {
+        "de": "denken",
+        "ru": "думать"
+    },
+    {
+        "de": "kämpfen",
+        "ru": "бороться"
+    },
+    {
+        "de": "fangen",
+        "ru": "ловить"
+    },
+    {
+        "de": "befürchten",
+        "ru": "бояться, опасаться"
+    },
+    {
+        "de": "interessieren, sich",
+        "ru": "интересоваться"
+    },
+    {
+        "de": "überraschen",
+        "ru": "удивлять"
+    },
+    {
+        "de": "aufstehen",
+        "ru": "вставать"
+    },
+    {
+        "de": "ziehen",
+        "ru": "тянуть; перемещаться"
+    },
+    {
+        "de": "anziehen",
+        "ru": "надевать"
+    },
+    {
+        "de": "ausziehen",
+        "ru": "снимать (одежду)"
+    },
+    {
+        "de": "leben",
+        "ru": "жить"
+    },
+    {
+        "de": "wohnen",
+        "ru": "проживать"
+    },
+    {
+        "de": "arbeiten",
+        "ru": "работать"
+    },
+    {
+        "de": "fernsehen",
+        "ru": "смотреть телевизор"
+    },
+    {
+        "de": "waschen",
+        "ru": "мыть, cтирать"
+    },
+    {
+        "de": "rasieren, sich",
+        "ru": "бриться"
+    },
+    {
+        "de": "versuchen",
+        "ru": "пытаться, пробовать"
+    },
+    {
+        "de": "feiern",
+        "ru": "праздновать"
+    },
+    {
+        "de": "lächeln",
+        "ru": "улыбаться"
+    },
+    {
+        "de": "lachen",
+        "ru": "смеяться"
+    },
+    {
+        "de": "weinen",
+        "ru": "плакать"
+    },
+    {
+        "de": "lernen",
+        "ru": "учить(ся)"
+    },
+    {
+        "de": "studieren",
+        "ru": "учиться (в вузе); изучать"
+    },
+    {
+        "de": "ändern",
+        "ru": "(из)менять"
+    },
+    {
+        "de": "öffnen",
+        "ru": "открывать"
+    },
+    {
+        "de": "tanzen",
+        "ru": "танцевать"
+    },
+    {
+        "de": "fragen",
+        "ru": "спрашивать"
+    },
+    {
+        "de": "bitten",
+        "ru": "просить"
+    },
+    {
+        "de": "bieten",
+        "ru": "предлагать"
+    },
+    {
+        "de": "antworten",
+        "ru": "отвечать"
+    },
+    {
+        "de": "sammeln",
+        "ru": "собирать"
+    },
+    {
+        "de": "gefallen",
+        "ru": "нравиться"
+    },
+    {
+        "de": "kochen",
+        "ru": "варить; готовить"
+    },
+    {
+        "de": "backen",
+        "ru": "печь"
+    },
+    {
+        "de": "riechen",
+        "ru": "пахнуть; нюхать"
+    },
+    {
+        "de": "warten",
+        "ru": "ждать"
+    },
+    {
+        "de": "erwarten",
+        "ru": "ожидать"
+    },
+    {
+        "de": "danken",
+        "ru": "благодарить"
+    },
+    {
+        "de": "spielen",
+        "ru": "играть"
+    },
+    {
+        "de": "rauchen",
+        "ru": "курить"
+    },
+    {
+        "de": "wünschen",
+        "ru": "желать"
+    },
+    {
+        "de": "schreien",
+        "ru": "кричать"
+    },
+    {
+        "de": "träumen",
+        "ru": "мечтать; видеть сон"
+    },
+    {
+        "de": "hoffen",
+        "ru": "надеяться"
+    },
+    {
+        "de": "erinnern, sich",
+        "ru": "вспоминать"
+    },
+    {
+        "de": "erinnern",
+        "ru": "напоминать"
+    },
+    {
+        "de": "genießen",
+        "ru": "наслаждаться; пользоваться"
+    },
+    {
+        "de": "erklären",
+        "ru": "объяснять"
+    },
+    {
+        "de": "bleiben",
+        "ru": "оставаться"
+    },
+    {
+        "de": "erholen, sich",
+        "ru": "отдыхать"
+    },
+    {
+        "de": "abbiegen",
+        "ru": "повернуть"
+    },
+    {
+        "de": "heben",
+        "ru": "поднимать"
+    },
+    {
+        "de": "glauben",
+        "ru": "верить, полагать"
+    },
+    {
+        "de": "helfen",
+        "ru": "помогать"
+    },
+    {
+        "de": "bestellen",
+        "ru": "заказывать"
+    },
+    {
+        "de": "befehlen",
+        "ru": "приказывать"
+    },
+    {
+        "de": "besuchen",
+        "ru": "посещать"
+    },
+    {
+        "de": "prüfen",
+        "ru": "проверять"
+    },
+    {
+        "de": "springen",
+        "ru": "прыгать"
+    },
+    {
+        "de": "reisen",
+        "ru": "путешествовать"
+    },
+    {
+        "de": "entscheiden",
+        "ru": "решать, принимать решение"
+    },
+    {
+        "de": "lösen",
+        "ru": "решать (проблему); растворять"
+    },
+    {
+        "de": "stimmen",
+        "ru": "быть правильным, верным"
+    },
+    {
+        "de": "zustimmen",
+        "ru": "соглашаться"
+    },
+    {
+        "de": "retten",
+        "ru": "спасать"
+    },
+    {
+        "de": "speichern",
+        "ru": "сохранять, накапливать"
+    },
+    {
+        "de": "sparen",
+        "ru": "экономить, копить"
+    },
+    {
+        "de": "streiten",
+        "ru": "спорить"
+    },
+    {
+        "de": "zählen",
+        "ru": "считать"
+    },
+    {
+        "de": "sorgen, sich",
+        "ru": "беспокоиться"
+    },
+    {
+        "de": "scherzen",
+        "ru": "шутить"
+    },
+    {
+        "de": "bewegen, sich",
+        "ru": "двигаться"
+    },
+    {
+        "de": "passen",
+        "ru": "соответствовать, подходить"
+    },
+    {
+        "de": "sterben",
+        "ru": "умирать"
+    },
+    {
+        "de": "beeinflussen",
+        "ru": "влиять"
+    },
+    {
+        "de": "unterstützen",
+        "ru": "поддерживать"
+    },
+    {
+        "de": "beschreiben",
+        "ru": "описывать"
+    },
+    {
+        "de": "bestrafen",
+        "ru": "наказывать"
+    },
+    {
+        "de": "vorhaben",
+        "ru": "намереваться"
+    },
+    {
+        "de": "klagen",
+        "ru": "жаловаться"
+    },
+    {
+        "de": "vermeiden",
+        "ru": "избегать"
+    },
+    {
+        "de": "zurückkehren",
+        "ru": "возвращаться"
+    },
+    {
+        "de": "stören",
+        "ru": "беспокоить, мешать"
+    },
+    {
+        "de": "vorstellen",
+        "ru": "представлять, знакомить"
+    },
+    {
+        "de": "kennenlernen",
+        "ru": "узнавать, знакомиться"
+    },
+    {
+        "de": "überzeugen",
+        "ru": "убеждать"
+    },
+    {
+        "de": "genehmigen",
+        "ru": "позволять, санкционировать, одобрять"
+    },
+    {
+        "de": "schätzen",
+        "ru": "ценить"
+    }
+]
